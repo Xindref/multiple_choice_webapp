@@ -1,0 +1,82 @@
+.NavBar {
+    width: 100%;
+    background-color: rgb(80, 154, 223);
+    display: flex;
+    justify-content: center;
+    min-height: 50px;
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+}
+
+.NavBar :any-link {
+    text-decoration: none;
+    background-color: rgb(148, 184, 216);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 22px;
+    height: 100%;
+    width: 100%;
+    border: 2px solid black;
+    border-top: 0px;
+    border-bottom: 0px;
+    font-weight: bold;
+    color: aliceblue;
+    text-shadow: 2px 2px 2px black;
+}
+
+.NavBar :any-link:hover {
+    background-color: rgb(135, 219, 252);
+    scale: 1.05;
+}
+
+.navList {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.navList li {
+    display: flex;
+    width: 45%;
+}
+
+.chapterSelect {
+    position: relative;
+}
+
+.dropDownContainer {
+    position: absolute;
+    top: 50px;
+    left: 5%;
+    background-color: rgb(80, 154, 223);
+    width: 90%;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    padding-bottom: 5px;
+    padding-top: 3px;
+}
+
+.dropDownItem {
+    width: 90%;
+    height: 40px;
+}
+
+.dropDownItem :any-link {
+    border: 3px solid black;
+}
+
+.dropDownContainer li {
+    width: 100%;
+    background-color: blue;
+}
+
+ul, li {
+    list-style: none;
+}

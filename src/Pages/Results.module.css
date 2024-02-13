@@ -1,0 +1,87 @@
+.resultsContainer {
+    width: 90%;
+    margin: auto;
+    background-color: cornflowerblue;
+    border: 5px solid black;
+    border-bottom: 10px solid black;
+    border-radius: 15px;
+    box-shadow: 0px 8px 5px rgb(109, 109, 109);
+}
+
+.percentageText {
+    color: lime;
+    text-shadow: 2px 3px 2px black;
+    font-size: 50px;
+}
+
+.answerResults {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 80%;
+    margin: auto;
+    font-size: 22px;
+    font-weight: bold;
+    text-shadow: 3px 3px 2px rgb(71, 71, 71);
+}
+
+.correctResult {
+    color: lime;
+}
+
+.missedResult {
+    color: rgb(255, 0, 0);
+}
+
+.missedQuestionContainer {
+    background-color: rgb(40, 80, 116);
+    margin: 10px;
+    padding: 20px;
+    border-radius: 15px;
+    border: 3px solid black;
+    border-bottom: 6px solid black;
+    text-shadow: 2px 2px 2px black;
+    color: white;
+    font-size: 25px;
+}
+
+.questionHeader {
+    color: rgb(88, 102, 224);
+}
+
+.questionText {
+    color: rgb(111, 141, 206);
+}
+
+.yourAnswerHeader {
+    color: crimson;
+}
+
+.yourAnswerText {
+    color: red;
+}
+
+.correctAnswerHeader {
+    color: limegreen;
+}
+
+.correctAnswerText {
+    color: lime;
+}
+
+.buttonsContainer {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 50px;
+}
+
+.prevButton {
+    cursor: pointer;
+    user-select: none;
+}
+
+.nextButton {
+    cursor: pointer;
+    user-select: none;
+}

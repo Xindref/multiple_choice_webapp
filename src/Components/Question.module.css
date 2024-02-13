@@ -1,0 +1,123 @@
+.questionContainer, 
+.explanationContainer {
+    background-color: rgb(160, 178, 189);
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    gap: 20px;
+    border-radius: 20px;
+    box-shadow: 0px 8px 10px black;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.question, 
+.explanation {
+    width: 90%;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-shadow: 2px 2px 2px black;
+}
+
+.optionsContainer {
+    background-color: rgb(179, 220, 255);
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 90%;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    box-shadow: 0px 4px 4px black;
+}
+
+.option {
+    font-size: 24px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    padding: 5px;
+    box-shadow: 0px 2px 2px black;
+}
+
+.option:hover {
+    background-color: rgb(94, 180, 255);
+    cursor: pointer;
+}
+
+.optionSelected {
+    background-color: rgb(0, 217, 255);
+}
+
+.optionSelected:hover {
+    background-color: rgb(0, 217, 255);
+}
+
+.checkAnswer {
+    background-color: rgb(179, 255, 144);
+    height: 50px;
+    border-radius: 10px;
+    box-shadow: 0px 1px 1px black;
+    width: 50%;
+    font-size: 24px;
+    padding: 5px;
+}
+
+.checkAnswer:hover {
+    background-color: rgb(9, 255, 0);
+    cursor: pointer;
+}
+
+.correctAnswer {
+    color: rgb(0, 255, 0);
+    text-shadow: 2px 2px 2px black;
+}
+
+.wrongAnswer {
+    color: red;
+    text-shadow: 2px 2px 2px black;
+}
+
+.dif, 
+.obj, 
+.top, 
+.msc {
+    font-size: 24px;
+    text-shadow: 2px 2px 2px black;
+    margin: 0px;
+}
+
+.dif {
+    color: mediumorchid;
+}
+
+.obj {
+    color: aqua;
+}
+
+.top {
+    color: greenyellow;
+}
+
+.msc {
+    color: gold;
+}
+
+.nextQuestionButton {
+    margin-top: 50px;
+    height: 60px;
+    width: 80%;
+    border-radius: 10px;
+    background-color: rgb(148, 218, 240);
+    font-size: 26px;
+    font-weight: bold;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+    box-shadow: 0px 4px 2px black;
+}
