@@ -20,6 +20,13 @@ const Question = ({question, nextQuestion, correctCount, setCorrectCount, missed
         }
     }
 
+    const handleMatchingChange = (topic, match) => {
+        setSelectedOptions(prevOptions => ({
+            ...prevOptions,
+            [topic]: match
+        }));
+    }
+
     const handleNextAnswer = () => {
         nextQuestion();
         setShowExplanation(false);
@@ -30,7 +37,24 @@ const Question = ({question, nextQuestion, correctCount, setCorrectCount, missed
     }
 
     const handleCheckAnswer = () => {
-        if (!multipleAnswer) {
+
+        if (question.matching) {
+            for (let key in question.answer) {
+                if (selectedOptions[key] === question.answer[key]) {
+                    setCorrectCount(correctCount + 1);
+                    setAnswerStatus(true);
+                } else {
+                    console.log("failed matching question");
+                    question.yourAnswer = selectedOptions;
+                    setMissedCount(missedCount + 1);
+                    setAnswerStatus(false);
+                    setMissedQuestion([...missedQuestions, question])
+                    break;
+                }
+            }
+        }
+
+        else if (!multipleAnswer && !question.matching) {
             if (selectedOptions[0] === question.answer) {
                 setCorrectCount(correctCount + 1);
                 setAnswerStatus(true);
@@ -42,7 +66,7 @@ const Question = ({question, nextQuestion, correctCount, setCorrectCount, missed
             }
             
         }
-        else if (multipleAnswer) {
+        else if (multipleAnswer && !question.matching) {
             const answerSorted = question.answer.sort();
             const selectedOptionsSorted = selectedOptions.sort();
             const answerFilter = selectedOptionsSorted.filter((selectedOption, index) => selectedOption !== answerSorted[index])
@@ -74,6 +98,7 @@ const Question = ({question, nextQuestion, correctCount, setCorrectCount, missed
 
         checkMultipleAnswer();
         window.scrollTo({top: 0, behavior: 'smooth'});
+        setShowExplanation(false);
     }, [question])
 
     return (
@@ -86,6 +111,20 @@ const Question = ({question, nextQuestion, correctCount, setCorrectCount, missed
                         onClick={handleCheckAnswer}>
                             Check Answer
                     </button>
+                    {question.matching ? 
+                        <div className={styles.optionsContainer}>
+                            {question.matching.map((topic, index) => (
+                                <div>
+                                    <p className={styles.matchingName} key={index}>{topic}</p>
+                                    <select className={styles.selectDropdown} onChange={(event) => handleMatchingChange(topic, event.target.value)}>
+                                        <option></option>
+                                        {question.options.map((option) => (
+                                            <option className={styles.matchingOption} value={option}>{option}</option>
+                                        ))}
+                                    </select>
+                                </div>
+                            ))}
+                        </div> :
                     <div className={styles.optionsContainer}>
                         {question.options.map((option) => (
                             <div 
@@ -94,7 +133,7 @@ const Question = ({question, nextQuestion, correctCount, setCorrectCount, missed
                                     {option}
                             </div>
                         ))}
-                    </div>
+                    </div> }
                 </div> : 
                 <div className={styles.explanationContainer}>
                     <h1 className={answerStatus ? styles.correctAnswer : styles.wrongAnswer}>

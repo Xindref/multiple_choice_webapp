@@ -98,6 +98,8 @@
     font-size: 24px;
     text-shadow: 2px 2px 2px black;
     margin: 0px;
+    padding-left: 30px;
+    padding-right: 30px;
 }
 
 .dif {
@@ -131,4 +133,24 @@
 
 .nextQuestionButton:hover {
     cursor: pointer;
+}
+
+.matchingName {
+    font-size: 25px;
+    margin: 0px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.matchingOption {
+    font-size: 20px;
+}
+
+.selectDropdown {
+    height: 30px;
+    width: 95%;
+    font-size: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 2px 2px black;
+    margin-bottom: 5px;
 }

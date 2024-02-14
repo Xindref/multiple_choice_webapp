@@ -215,55 +215,339 @@
     ],
     "chapter23": [
         {
-            "question": "Four patients in labor all request epidural analgesia to manage their pain at the same time. Which ethical principle is most compromised when only one nurse anesthetist is on call?",
-            "options": ["Justice", "Fidelity", "Beneficence", "Nonmaleficence"],
-            "answer": "Justice",
-            "explanation": "Justice refers to fairness and is used frequently in discussion regarding access to health care resources. Here the just distribution of resources, in this case pain management, cannot be justly apportioned Nonmaleficence refers to avoidance of harm; beneficence refers to taking positive actions to help others. Fidelity refers to the agreement to keep promises. Each of these principles is partially expressed in the question; however, justice is most comprised because not all laboring patients have equal access to pain management owing to lack of personnel resources.",
-            "dif": "Apply(application)",
-            "obj": "Discuss the role of ethics in professional nursing.",
-            "top": "Caring",
-            "msc": "Health Promotion and Maintenance"
+          "question": "A newly hired experienced nurse is preparing to change a patient's abdominal dressing and hasn't done it before at this hospital. Which action by the nurse is best?",
+          "options": [
+            "Have another nurse do it so the correct method can be viewed.",
+            "Change the dressing using the method taught in nursing school.",
+            "Ask the patient how the dressing change has been recently done.",
+            "Check the policy and procedure manual for the facility's method."
+          ],
+          "answer": "Check the policy and procedure manual for the facility's method.",
+          "explanation": "The Joint Commission requires accredited hospitals to have written nursing policies and procedures. These internal standards of care are specific and need to be accessible on all nursing units. For example, a policy/procedure outlining the steps to follow when changing a dressing or administering medication provides specific information about how nurses are to perform. The nurse being observed may not be doing the procedure according to the facility's policy or procedure. The procedure taught in nursing school may not be consistent with the policy or procedure for this facility. The patient is not responsible for maintaining the standards of practice. Patient input is important, but it's not what directs nursing practice.",
+          "dif": "Apply (application)",
+          "obj": "List sources of standards of care for nurses.",
+          "top": "Planning",
+          "msc": "Management of Care"
         },
         {
-            "question": "The patient reports to the nurse of being afraid to speak up regarding a desire to end care for fear of upsetting spouse and children. Which principle in the nursing code of ethics ensures that the nurse will promote the patient's cause?",
-            "options": ["Advocacy", "Responsibility", "Confidentiality", "Accountability"],
-            "answer": "Advocacy",
-            "explanation": "Nurses advocate for patients when they support the patient's cause. A nurse's ability to adequately advocate for a patient is based on the unique relationship that develops and the opportunity to better understand the patient's point of view. Responsibility refers to respecting one's professional obligations and following through on promises. Confidentiality deals with privacy issues, and accountability refers to answering for one's actions.",
-            "dif": "Apply(application)",
-            "obj": "Discuss the role of ethics in professional nursing.",
-            "top": "Caring",
-            "msc": "Management of Care"
+          "question": "A new nurse notes that the health care unit keeps a listing of patient names in a closed book behind the front desk of the nursing station so patients can be located easily. Which action is most appropriate for the nurse to take?",
+          "options": [
+            "Talk with the nurse manager about the listing being a violation of the Health Insurance Portability and Accountability Act (HIPAA).",
+            "Use the book as needed while keeping it away from individuals not involved in patient care.",
+            "Move the book to the upper ledge of the nursing station for easier access.",
+            "Ask the nurse manager to move the book to a more secluded area."
+          ],
+          "answer": "Use the book as needed while keeping it away from individuals not involved in patient care.",
+          "explanation": "The book is located where only staff would have access so the nurse can use the book as needed. The privacy section of the HIPAA provides standards regarding accountability in the health care setting. These rules include patient rights to consent to the use and disclosure of their protected health information, to inspect and copy their medical record, and to amend mistaken or incomplete information. It is not the responsibility of the new nurse to move items used by others on the patient unit. The listing is protected as long as it is used appropriately as needed to provide care. There is no need to move the book to a more secluded area.",
+          "dif": "Apply (application)",
+          "obj": "Describe the legal obligations and role of the nurse regarding federal and state laws that affect health care.",
+          "top": "Implementation",
+          "msc": "Management of Care"
         },
         {
-            "question": "The patient's son requests to view documentation in the medical record. What is the nurse's best response to this request?",
-            "options": ["I'll be happy to get that for you.", "You are not allowed to look at it.", "You will need your mother's permission.", "I cannot let you see the chart without a doctor's order."],
-            "answer": "You will need your mother's permission.",
-            "explanation": "The mother's permission is needed. The nurse understands that sharing health information is governed by HIPAA legislation, which defines rights and privileges of patients for protection of privacy. Private health information cannot be shared without the patient's specific permission. The nurse cannot obtain the records without permission. The son can look at it after approval from the patient. While talking to the physician or getting an order is appropriate, the patient still has to give consent.",
-            "dif": "Analyze(analysis)",
-            "obj": "Discuss the role of ethics in professional nursing.",
-            "top": "Communication and Documentation",
-            "msc": "Management of Care"
+          "question": "A 17-year-old patient, dying of heart failure, wants to have organs removed for transplantation after death. Which action by the nurse is correct?",
+          "options": [
+            "Instruct the patient to talk with parents about the desire to donate organs.",
+            "Notify the health care provider about the patient's desire to donate organs.",
+            "Prepare the organ donation form for the patient to sign while still oriented.",
+            "Contact the United Network for Organ Sharing after talking with the patient."
+          ],
+          "answer": "Instruct the patient to talk with parents about the desire to donate organs.",
+          "explanation": "In this situation, the parents would need to sign the form because the teenager is under age 18. An individual who is at least 18 may sign the form allowing organ donation upon death. The nurse cannot allow the patient to sign the organ donation document because the patient is younger than age 18. The health care provider will be notified about the patient's wishes after the parents agree to donate the organs. The United Network for Organ Sharing (UNOS) has a contract with the federal government and sets policies and guidelines for the procurement of organs.",
+          "dif": "Apply (application)",
+          "obj": "Analyze legal aspects of nurse-patient, nurse-health care provider, nurse-nurse, and nurse-employer relationships.",
+          "top": "Implementation",
+          "msc": "Management of Care"
         },
         {
-            "question": "A nurse is a member of the ethics committee. Which roles will the nurse fulfill in this committee? (Select all that apply.)",
-            "options": [
-              "Educator",
-              "Case consultant",
-              "Purchasing Agent",
-              "Direct patient care provider",
-              "Policy reviewer and recommender"
-            ],
-            "answer": [
-                "Educator",
-                "Purchasing Agent",
-                "Policy reviewer and recommender"
-            ],
-            "explanation": "An ethics committee devoted to the teaching and processing of ethical issues and dilemmas exists in most health care facilities. It is generally multidisciplinary and it serves several purposes: education, policy recommendation, and case consultation. It does not have purchasing power or provide direct patient care.",
-            "dif": "Understand (comprehension)",
-            "obj": "Explain a nursing perspective in ethics.",
-            "top": "Caring",
-            "msc": "Management of Care"
-          }
+          "question": "An obstetric nurse comes across an automobile accident. The driver seems to have a crushed upper airway, and while waiting for emergency medical services to arrive, the nurse makes a cut in the trachea and inserts a straw from a purse to provide an airway. The patient survives and has a permanent problem with vocal cords, making it difficult to talk. Which statement is true regarding the nurse's performance?",
+          "options": [
+            "The nurse acted appropriately and saved the patient's life.",
+            "The nurse stayed within the guidelines of the Good Samaritan Law.",
+            "The nurse took actions beyond those that are standard and appropriate.",
+            "The nurse should have just stayed with the patient and waited for help."
+          ],
+          "answer": "The nurse took actions beyond those that are standard and appropriate.",
+          "explanation": "An obstetric nurse would not have been trained in performing a tracheostomy (cut in the trachea) and doing so would be beyond what the nurse has been trained or educated to do. If you perform a procedure exceeding your scope of practice and for which you have no training, you are liable for injury that may result from that act. You should only provide care that is consistent with your level of expertise. The nurse did not act appropriately. The nurse is not protected by the Good Samaritan Law because the nurse acted outside the scope of practice and training. The nurse should have acted within what was trained and educated to do in this circumstance, not just stay with the patient.",
+          "dif": "Apply (application)",
+          "obj": "Explain the legal concept of standard of care and informed consent.",
+          "top": "Evaluation",
+          "msc": "Management of Care"
+        },
+        {
+          "question": "A nurse performs cardiopulmonary resuscitation (CPR) on a 92 year old with brittle bones and breaks a rib during the procedure, which then punctures a lung. The patient recovers completely without any residual problems and sues the nurse for pain and suffering and for malpractice. Which key point will the prosecution attempt to prove against the nurse?",
+          "options": [
+            "The CPR procedure was done incorrectly.",
+            "The patient would have died if nothing was done.",
+            "The patient was resuscitated according to the policy.",
+            "The older patient with brittle bones might sustain fractures when chest compressions are done."
+          ],
+          "answer": "The CPR procedure was done incorrectly.",
+          "explanation": "Certain criteria are necessary to establish nursing malpractice. The prosecution would try to prove that a breach of duty had occurred (CPR done incorrectly), which had caused injury. The defense team, not the prosecution, would explain the correlation between brittle bones and rib fractures during CPR and that the patient was resuscitated according to policy. In this situation, although harm was caused, it was not because of failure of the nurse to perform a duty according to standards, the way other nurses would have performed in the same situation. The fact that the patient sustained injury, as a result of age and physical status, does not mean the nurse breached any duty to the patient. The nurse would need to make sure the defense attorney knew that the cardiopulmonary resuscitation (CPR) was done correctly. Without intervention, the patient most likely would not have survived.",
+          "dif": "Understand (comprehension)",
+          "obj": "List the elements needed to establish negligence.",
+          "top": "Evaluation",
+          "msc": "Management of Care"
+        },
+        {
+          "question": "A recent immigrant who does not speak English is alert but requires hospitalization. What is the initial action that the nurse must take to enable informed consent to be obtained?",
+          "options": [
+            "Ask a family member to translate what the nurse is saying.",
+            "Request an official interpreter to explain the terms of consent.",
+            "Notify the nursing manager that the patient doesn't speak English.",
+            "Use hand gestures and medical equipment while explaining in English."
+          ],
+          "answer": "Request an official interpreter to explain the terms of consent.",
+          "explanation": "An official interpreter must be present to explain the terms of consent if a patient speaks only a foreign language. A family member or acquaintance who speaks a patient's language should not interpret health information. Family members can tell those caring for the patient what the patient is saying, but privacy regarding the patient's condition, assessment, etc., must be protected. A nurse can take care of requesting an interpreter, and the nurse manager is not needed. Using hand gestures and medical equipment is inappropriate when communicating with a patient who does not understand the language spoken. Certain hand gestures may be acceptable in one culture and not appropriate in another. The medical equipment may be unknown and frightening to the patient, and the patient still doesn't understand what is being said.",
+          "dif": "Apply (application)",
+          "obj": "Explain the legal concept of standard of care and informed consent.",
+          "top": "Implementation",
+          "msc": "Management of Care"
+        },
+        {
+          "question": "A pediatric oncology nurse floats to an orthopedic trauma unit. Which action should the nurse manager of the orthopedic unit take to enable safe care to be given by this nurse?",
+          "options": [
+            "Provide a complete orientation to the functioning of the entire unit.",
+            "Determine patient acuity and care the nurse can safely provide.",
+            "Allow the nurse to choose which mealtime works best.",
+            "Assign nursing assistive personnel to assist with care."
+          ],
+          "answer": "Determine patient acuity and care the nurse can safely provide.",
+          "explanation": "Supervisors are liable if they give staff nurses an assignment that they cannot safely handle. Nurses who float must inform the supervisor of any lack of experience in caring for the types of patients on the nursing unit. They should request and receive an orientation to the unit. A basic orientation is needed, whereas a complete orientation of the functioning of the entire unit would take a period of time that would exceed what the nurse has to spend on orientation. Allowing nurses to choose which mealtime they would like is a nice gesture of thanks for the nurse, but it does not enable safe care. Having nursing assistive personnel may help the nurse complete basic tasks such as hygiene and turning, but it does not enable safe nursing care that the nurse and manager are ultimately responsible for.",
+          "dif": "Apply (application)",
+          "obj": "Analyze legal aspects of nurse-patient, nurse-health care provider, nurse-nurse, and nurse-employer relationships.",
+          "top": "Implementation",
+          "msc": "Management of Care"
+        },
+        {
+          "question": "While recovering from a severe illness, a hospitalized patient wants to change a living will, which was signed 9 months ago. Which response by the nurse is most appropriate?",
+          "options": [
+            "“Check with your admitting health care provider whether a copy is on your chart.”",
+            "“Let me check with someone here in the hospital who can assist you.”",
+            "“You are not allowed to ever change a living will after signing it.”",
+            "“Your living will can be changed only once each calendar year.”"
+          ],
+          "answer": "“Let me check with someone here in the hospital who can assist you.”",
+          "explanation": "As long as the patient is not declared legally incompetent or lacks the capacity to make decisions, living wills can be changed. It is the nurse's responsibility to find an appropriate person in the facility to assist the patient. Checking with the health care provider about the presence of a living will on the chart has nothing to do with the patient's desire to change the living will. The question states that the patient wants to change a living will. A living will can be changed whenever the patient decides to change it, as long as the patient is competent.",
+          "dif": "Analyze (analysis)",
+          "obj": "Describe the legal obligations and role of the nurse regarding federal and state laws that affect health care.",
+          "top": "Communication and Documentation",
+          "msc": "Management of Care"
+        },
+        {
+          "question": "A home health nurse notices that a patient's preschool children are often playing on the sidewalk and in the street unsupervised and repeatedly takes them back to the home and talks with the patient, but the situation continues. Which immediate action by the nurse is mandated by law?",
+          "options": [
+            "Contact the appropriate community child protection facility.",
+            "Tell the parents that the authorities will be contacted shortly.",
+            "Take pictures of the children to support the overt child abuse.",
+            "Discuss with both parents about the safety needs of their children."
+          ],
+          "answer": "Contact the appropriate community child protection facility.",
+          "explanation": "The nurse has a duty to report this situation to protect the children. Any health care professional who does not report suspected child abuse or neglect may be liable for civil or criminal legal action. Talking with both parents is not mandated by law. There is no obligation to tell the parents that they will be reported to authorities. There is no obligation for the nurse to take pictures of the children.",
+          "dif": "Apply (application)",
+          "obj": "Describe the legal obligations and role of the nurse regarding federal and state laws that affect health care.",
+          "top": "Implementation",
+          "msc": "Management of Care"
+        },
+        {
+          "question": "A confused patient with a urinary catheter, nasogastric tube, and intravenous line keeps touching these needed items for care. The nurse has tried to explain to the patient that these lines should not be touched, but the patient continues. Which is the best action by the nurse at this time?",
+          "options": [
+            "Apply restraints loosely on the patient's dominant wrist.",
+            "Notify the health care provider that restraints are needed immediately.",
+            "Try other approaches to prevent the patient from touching these care items.",
+            "Allow the patient to pull out lines to prove that the patient needs to be restrained."
+          ],
+          "answer": "Try other approaches to prevent the patient from touching these care items.",
+          "explanation": "Restraints can be used when less restrictive interventions are not successful. The nurse must try other approaches than just telling. The situation states that the patient is touching the items, not trying to pull them out. At this time, the patient's well-being is not at risk so restraints cannot be used at this time nor does the health care provider need to be notified. Allowing the patient to pull out any of these items to prove the patient needs to be restrained is not acceptable.",
+          "dif": "Apply (application)",
+          "obj": "Describe the legal obligations and role of the nurse regarding federal and state laws that affect health care.",
+          "top": "Implementation",
+          "msc": "Safety and Infection Control"
+        },
+        {
+          "question": "A patient has sued a post-surgical unit nurse who provided care after abdominal surgery with nursing malpractice. Which resource would be used to determine whether the nurse has acted in a prudent manner?",
+          "options": [
+            "Scope and Standards of Nursing Care",
+            "The typical level of care provided by other unit nurses",
+            "The testimony of the patient's primary health care provider",
+            "Comparison of documentation of the care provided by the nurse to similar patients"
+          ],
+          "answer": "Scope and Standards of Nursing Care",
+          "explanation": "During a malpractice suit, a nurse's actual conduct is compared to nursing standards of care (i.e., Scope and Standards of Nursing Care [ANA, 2015]) to determine whether the nurse acted as any reasonably prudent nurse would act under the same or similar circumstances. None of the other options would serve to validate the care that was appropriate for the patient at this time and by the nurse providing the care.",
+          "dif": "Apply (application)",
+          "obj": "Describe the legal obligations and role of the nurse regarding federal and state laws that affect health care.",
+          "top": "Communication and Documentation",
+          "msc": "Management of Care"
+        },
+        {
+          "question": "How can a nurse assigned to a medical unit at a local hospital best address issues related to the delivery of quality nursing care?",
+          "options": [
+            "Serve as a volunteer patient advocate at the local free health clinic.",
+            "Become active in professional nursing organizations at the state level.",
+            "Ask to be a member of the hospital's policy and procedure committee",
+            "Agree to act as a preceptor for nursing students during their clinical experience"
+          ],
+          "answer": "Become active in professional nursing organizations at the state level.",
+          "explanation": "As a professional nurse, it is important to remain aware of current issues in health care. Become involved in professional organizations and committees that define the standards of care for nursing practice. If current laws, rules and regulations, or policies under which nurses practice are not evidence based, advocate to ensure that the scope of nursing practice is defined accurately. While the other options are all associated with effecting quality nursing care, none have the degree of effectiveness as working directly with nursing organizations to define standards of nursing care.",
+          "dif": "Apply (application)",
+          "obj": "Describe the legal obligations and role of the nurse regarding federal and state laws that affect health care.",
+          "top": "Implementation",
+          "msc": "Management of Care"
+        },
+        {
+          "question": "A nursing student has been written up several times for being late with providing patient care and for omitting aspects of patient care and not knowing basic procedures that were taught in the skills course one term earlier. The nursing student says, “I don't understand what the big deal is. As my instructor, you are there to protect me and make sure I don't make mistakes.” What is the best response from the nursing instructor?",
+          "options": [
+            "“You are practicing under the license of the hospital's insurance.”",
+            "“You are expected to perform at the level of a professional nurse.”",
+            "“You are expected to perform at the level of a prudent nursing student.”",
+            "“You are practicing under the license of the nurse assigned to the patient.”"
+          ],
+          "answer": "“You are expected to perform at the level of a professional nurse.”",
+          "explanation": "Although nursing students are not employees of the health care facility where they are having their clinical experience, they are expected to perform as professional nurses would in providing safe patient care. Different levels of standards do not apply. No standard is used for nursing students other than that they must meet the standards of a professional nurse. Student nurses do not practice under anybody's license; nursing students are liable if their actions exceed their scope of practice or cause harm to patients.",
+          "dif": "Apply (application)",
+          "obj": "Analyze legal aspects of nurse-patient, nurse-health care provider, nurse-nurse, and nurse-employer relationships.",
+          "top": "Communication and Documentation",
+          "msc": "Management of Care"
+        },
+        {
+          "question": "A nurse works full time on the oncology unit at the hospital and works part time on weekends giving immunizations at the local chain pharmacy. While giving an injection on a weekend, the nurse caused injury to the patient's arm and is now being sued. What initial action should the nurse take to initiate an effective legal defense?",
+          "options": [
+            "Notify the hospital of the situation to secure legal counsel by the hospital's private attorney.",
+            "Notify the manager of the pharmacy so that the corporation can provide legal counsel.",
+            "Inform the insurance company that is providing one's professional licensure defense insurance.",
+            "Immediately contact the State Board of Nursing to assure protecting the validity of the nursing license."
+          ],
+          "answer": "Inform the insurance company that is providing one's professional licensure defense insurance.",
+          "explanation": "Nurses often presume that either their personal or their employer's malpractice insurance will include costs of defending and retaining their nursing license. In most instances this is not true. Professional licensure defense insurance is a contract between a nurse and an insurance company. When a complaint is made to the State Board of Nursing, an action is initiated that could result in a restriction, suspension, or revocation of the nurse's license to practice. When a nurse specifically has professional licensure defense insurance, the nurse notifies the company. In this situation, neither employer should be relied upon to provide effective legal counsel.",
+          "dif": "Apply (application)",
+          "obj": "Analyze legal aspects of nurse-patient, nurse-health care provider, nurse-nurse, and nurse-employer relationships.",
+          "top": "Implementation",
+          "msc": "Management of Care"
+        },
+        {
+          "question": "A female nursing student in the final term of nursing school is overheard by a nursing faculty member telling another student that she got to insert a nasogastric tube in the emergency department while working as a nursing assistant. Which advice is best for the nursing faculty member to give to the nursing student?",
+          "options": [
+            "“Just be careful when you are doing new procedures and make sure you are following directions by the nurse.”",
+            "“Review your procedures before you go to work, so you will be prepared to do them if you have a chance.”",
+            "“The nurse should not have allowed you to insert the nasogastric tube because something bad could have happened.”",
+            "“You are not allowed to perform any procedures other than those in your job description even with the nurse's permission.”"
+          ],
+          "answer": "“You are not allowed to perform any procedures other than those in your job description even with the nurse's permission.”",
+          "explanation": "When nursing students work as nursing assistants or nurse's aides when not attending classes, they should not perform tasks that do not appear in a job description for a nurse's aide or assistant. The nursing student should always follow the directions of the nurse, unless doing so violates the institution's guidelines or job description under which the nursing student was hired, such as inserting a nasogastric tube or giving an intramuscular medication. The nursing student should be able to safely complete the procedures delegated as a nursing assistant, and reviewing those not done recently is a good idea, but it has nothing to do with the situation. The focus of the discussion between the nursing faculty member and the nursing student should be on following the job description under which the nursing student is working.",
+          "dif": "Analyze (analysis)",
+          "obj": "List sources of standards of care for nurses.",
+          "top": "Communication and Documentation",
+          "msc": "Management of Care"
+        },
+        {
+          "question": "The nurse calculates the medication dose for an infant on the pediatric unit and determines that the dose is twice what it should be based upon the drug book's information. The pediatrician is contacted and says to administer the medication as ordered. Which actions should the nurse take next? (Select all that apply.)",
+          "options": [
+            "Notify the nursing supervisor.",
+            "Administer the medication as ordered.",
+            "Give the amount listed in the drug book.",
+            "Ask the mother to give the drug to her child.",
+            "Check the chain of command policy for such situations."
+          ],
+          "answer": [
+            "Notify the nursing supervisor.",
+            "Check the chain of command policy for such situations."
+          ],
+          "explanation": "If the health care provider confirms an order and the nurse still believes that it is inappropriate, the nurse should inform the supervising nurse and follow the established chain of command. Nurses follow health care providers' orders unless they believe the orders are in error or may harm patients. Therefore, the nurse needs to assess all orders. If an order seems to be erroneous or harmful, further clarification from the health care provider is necessary. The supervising nurse should be able to help resolve the questionable order, but only the health care provider who wrote the order or a health care provider covering for the one who wrote the order can change the order. Harm to the infant could occur if the medication is given as ordered. The nurse cannot change an order by giving the amount listed in the drug book. Asking the mother to give the drug is inappropriate.",
+          "dif": "Apply (application)",
+          "obj": "Analyze legal aspects of nurse-patient, nurse-health care provider, nurse-nurse, and nurse-employer relationships.",
+          "top": "Implementation",
+          "msc": "Management of Care"
+        },
+        {
+          "question": "The nurse hears a health care provider say to the charge nurse that a certain nurse cannot care for patients because the nurse is stupid and won't follow orders. The health care provider also writes in the patient's medical records that the same nurse, by name, is not to care for any of the patients because of incompetence. Which torts has the health care provider committed? (Select all that apply.)",
+          "options": [
+            "Libel",
+            "Slander",
+            "Assault",
+            "Battery",
+            "Invasion of privacy"
+          ],
+          "answer": [
+            "Libel",
+            "Slander"
+          ],
+          "explanation": "Slander occurred when the health care provider spoke falsely about the nurse, and libel occurred when the health care provider wrote false information in the chart. Both of these situations could cause problems for the nurse's reputation. Invasion of privacy is the release of a patient's medical information to an unauthorized person such as a member of the press, the patient's employer, or the patient's family. Assault is any action that places a person in reasonable fear of harmful, imminent, or unwelcome contact. No actual contact is required for an assault to occur. Battery is any intentional touching without consent.",
+          "dif": "Apply (application)",
+          "obj": "Analyze legal aspects of nurse-patient, nurse-health care provider, nurse-nurse, and nurse-employer relationships.",
+          "top": "Evaluation",
+          "msc": "Management of Care"
+        },
+        {
+          "question": "A patient has approximately 6 months to live and asks about a do not resuscitate (DNR) order. Which statements by the nurse give the patient correct information? (Select all that apply.)",
+          "options": [
+            "“You will be resuscitated unless there is a DNR order in the chart.”",
+            "“If you want certain procedures or actions taken or not taken, and you might not be able to tell anyone at the time, you need to complete documents ahead of time that give your health care provider this information.”",
+            "“You will be resuscitated at any time to allow you the longest length of survival.”",
+            "“If you decide you want a DNR order, you will need to talk to your health care provider.”",
+            "“If you travel to another state, your living will should cover your wishes.”"
+          ],
+          "answer": [
+            "“You will be resuscitated unless there is a DNR order in the chart.”",
+            "“If you want certain procedures or actions taken or not taken, and you might not be able to tell anyone at the time, you need to complete documents ahead of time that give your health care provider this information.”",
+            "“If you decide you want a DNR order, you will need to talk to your health care provider.”"
+          ],
+          "explanation": "Health care providers perform CPR on an appropriate patient unless a do not resuscitate (DNR) order has been placed in the patient's chart. The statutes assume that all patients will be resuscitated unless a written DNR order is found in the chart. Legally competent adult patients can consent to a DNR order verbally or in writing after receiving appropriate information from the health care provider. A health care proxy or durable power of attorney for health care (DPAHC) is a legal document that designates a person or persons of one's choosing to make health care decisions when the patient is no longer able to make decisions on his or her own behalf. This agent makes health care treatment decisions based on the patient's wishes, like a DNR. Resuscitation is performed anytime (not just for the longest length of survival) unless a DNR is written in the chart. Differences among the states have been noted regarding advance directives, so the patient should check state laws to see if a state will honor an advance directive that was originated in another state.",
+          "dif": "Apply (application)",
+          "obj": "Describe the nurse's role regarding a “do not resuscitate” (DNR) order.",
+          "top": "Teaching/Learning",
+          "msc": "Management of Care"
+        },
+        {
+          "question": "A nurse is teaching the staff about professional negligence or malpractice. Which criteria to establish negligence will the nurse include in the teaching session? (Select all that apply.)",
+          "options": [
+            "Injury did not occur.",
+            "That duty was breached.",
+            "Nurse carried out the duty.",
+            "Duty of care was owed to the patient.",
+            "Patient understands benefits and risks of a procedure."
+          ],
+          "answer": [
+            "That duty was breached.",
+            "Duty of care was owed to the patient."
+          ],
+          "explanation": "Certain criteria are necessary to establish nursing malpractice: (1) the nurse (defendant) owed a duty of care to the patient (plaintiff), (2) the nurse did not carry out or breached that duty, (3) the patient was injured, and (4) the nurse's failure to carry out the duty caused the injury. If an injury did not occur and the nurse carried out the duty, no malpractice occurred. When a patient understands benefits and risks of the procedure that is informed consent, not malpractice.",
+          "dif": "Understand (comprehension)",
+          "obj": "List the elements needed to establish negligence.",
+          "top": "Teaching/Learning",
+          "msc": "Management of Care"
+        },
+        {
+          "question": "A nurse is discussing nursing actions that can lead to breaches of nursing practice. Match the example to the term it describes.",
+          "matching": [
+            "Assault",
+            "Battery",
+            "Abandonment",
+            "False imprisonment",
+            "Invasion of privacy",
+            "Malpractice"
+          ],
+          "options": [
+            "Nurse posts about patient's loud and unruly family members.",
+            "Nurse immediately applies restraints to make patient stay in bed.",
+            "Nurse leaves bed in high position, causing patient to fall and break hip.",
+            "Nurse states that she will wrap a bandage over patient's mouth if he won't be quiet.",
+            "Nurse applies abdominal bandage after refusal.",
+            "Nurse gets angry at patient and nurse leaves the hospital."
+          ],
+          "answer": {
+            "Assault": "Nurse states that she will wrap a bandage over patient's mouth if he won't be quiet.",
+            "Battery": "Nurse applies abdominal bandage after refusal.",
+            "Abandonment": "Nurse gets angry at patient and nurse leaves the hospital.",
+            "False imprisonment": "Nurse immediately applies restraints to make patient stay in bed.",
+            "Invasion of privacy": "Nurse posts about patient's loud and unruly family members.",
+            "Malpractice": "Nurse leaves bed in high position, causing patient to fall and break hip."
+          },
+          "explanation": "A nurse stating that she will wrap a bandage over a patient's mouth if they won't keep quiet is considered Assault.\nA Nurse applying an abdominal bandage after patient refusal is considered Battery.\nA nurse getting angry at a patient and leaving the hospital is considered Abandonment.\nA Nurse immediately applying restraints to make a patient stay in their bad is considered False Imprisonment.\nA Nurse posting about a patient's load and unruly family members is considered an Invasion of privacy.\nA Nurse leaving a patient's bed in high position resulting in patient falling and breaking their hip is considered Malpractice.",
+          "dif":"Apply (application)",
+          "obj": "Analyze nursing actions most often associated in a breach of nursing practice.",
+          "top": "Implementation",
+          "msc": "Management of Care"
+        }
     ],
     "chapter25": [
         {

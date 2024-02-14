@@ -131,6 +131,18 @@
     user-select: none;
 }
 
+.matchingResultsContainer {
+    
+}
+
+.matchingTopic {
+    font-size: 30px;
+    margin: 0px;
+    color: orange;
+    border-bottom: 3px solid black;
+    border-top: 3px solid black;
+}
+
 @media (max-width: 600px) {
     .repeatChapterButton {
         width: 80%;
