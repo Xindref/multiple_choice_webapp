@@ -130,3 +130,12 @@
     font-size: 32px;
     user-select: none;
 }
+
+@media (max-width: 500px) {
+    .repeatChapterButton {
+        width: 80%;
+    }
+    .resultsContainer {
+        width: 95%;
+    }
+}
