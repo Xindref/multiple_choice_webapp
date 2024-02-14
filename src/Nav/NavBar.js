@@ -22,7 +22,7 @@ const NavBar = () => {
                         <ul className={styles.dropDownContainer}>
                             {chapterList.map((chapter) => (
                                 <li className={styles.dropDownItem}>
-                                    <Link to={`/chapter_${chapter}`}>Chapter {chapter}</Link>
+                                    <Link to={`/chapter_${chapter}`} onClick={toggleDropdown}>Chapter {chapter}</Link>
                                 </li>
                             ))}
                         </ul>

@@ -1,16 +1,19 @@
 .NavBar {
     width: 100%;
-    background-color: rgb(80, 154, 223);
+    background: rgb(25,189,255);
+    background: linear-gradient(180deg, rgba(25,189,255,1) 0%, rgba(139,211,212,1) 82%);
     display: flex;
     justify-content: center;
     min-height: 50px;
     border-top: 3px solid black;
-    border-bottom: 3px solid black;
+    border-bottom: 3px solid rgb(0, 0, 0);
+    z-index: 5;
 }
 
 .NavBar :any-link {
     text-decoration: none;
-    background-color: rgb(148, 184, 216);
+    background: rgb(194,239,255);
+    background: linear-gradient(180deg, rgba(194,239,255,1) 0%, rgba(129,183,200,1) 90%);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -61,6 +64,7 @@
     gap: 8px;
     padding-bottom: 5px;
     padding-top: 3px;
+    z-index: 10;
 }
 
 .dropDownItem {

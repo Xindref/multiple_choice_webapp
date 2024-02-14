@@ -10,7 +10,7 @@ const Home = () => {
                 Just a question/answer app for future nurses!
             </h1>
             <h2>
-                To get started just choose a chapter from the "Chapter Select" dropdown on the right side of the screen! It will randomly pull a question from that chapter until you reach the end, and then give you a chance to repeat any you may have missed, repeat the chapter, or go to a new one. You can change chapters at any time, but the results screen will only show if you complete the chapter.
+                To get started just choose a chapter from the "Chapter Select" dropdown on the right side of the screen! It will randomly pull a question from that chapter until you reach the end, and then give you a chance to review any you may have missed. If you'd like to repeat the chapter, for now you just navigate to a different chapter and back to the one you were just on. Repeat Chapter button will be added shortly! You can change chapters at any time, but the results screen will only show if you complete the chapter.
             </h2>
             <h2>
                 Send any bugs or problems you may run into to:

@@ -9,7 +9,11 @@ const Question = ({question, nextQuestion, correctCount, setCorrectCount, missed
     const [answerStatus, setAnswerStatus] = useState(null);
 
     const handleOptionSelect = (option) => {
-        if (selectedOptions.includes(option)) {
+        if (!multipleAnswer) {
+            setSelectedOptions([option]);
+        }  
+
+        else if (selectedOptions.includes(option)) {
             setSelectedOptions(selectedOptions.filter((selectedOption) => selectedOption !== option))
         } else {
             setSelectedOptions([...selectedOptions, option]);
@@ -55,6 +59,7 @@ const Question = ({question, nextQuestion, correctCount, setCorrectCount, missed
 
         setSelectedOptions([]);
         setShowExplanation(true);
+        window.scrollTo({top: 0, behavior: 'smooth'});
     }
 
     useEffect(() => {
@@ -68,6 +73,7 @@ const Question = ({question, nextQuestion, correctCount, setCorrectCount, missed
         }
 
         checkMultipleAnswer();
+        window.scrollTo({top: 0, behavior: 'smooth'});
     }, [question])
 
     return (

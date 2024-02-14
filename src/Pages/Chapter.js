@@ -12,6 +12,7 @@ const Chapter = ({chapter}) => {
     const [questionIndex, setQuestionIndex] = useState(0);
     const [availableQuestions, setAvailableQuestions] = useState([]);
     const [missedQuestions, setMissedQuestions] = useState([]);
+    const [repeatChapter, setRepeatChapter] = useState(false);
 
     const chapterList = [22, 23, 25, 26, 31, 32, 37, 38, 39, 48];
 
@@ -28,6 +29,10 @@ const Chapter = ({chapter}) => {
             const prevChapter = chapterList[chapterList.indexOf(chapter) - 1];
             return `/chapter_${prevChapter}`;
         }
+    }
+
+    const handleRepeatChapter = () => {
+        setRepeatChapter(!repeatChapter);
     }
 
     const removeQuestionFromAvailable = (index) => {
@@ -58,14 +63,14 @@ const Chapter = ({chapter}) => {
         }
         
         initializeAvailableQuestions();
-    }, [chapter])
+    }, [chapter, repeatChapter])
 
     return (
         <div>
             <div style={{display: "flex", alignItems: 'center', justifyContent: 'center', gap: '20px'}} >
-                {chapterList.indexOf(chapter) > 0 ? <Link style={{fontSize: 40, textDecoration: 'none', cursor: 'pointer', userSelect: 'none'}} to={handleChapterChange('prev')}>⏮️</Link> : null}
-                <h1>Chapter {chapter}</h1>
-                {chapterList.indexOf(chapter) < chapterList.length - 1 ? <Link style={{fontSize: 40, textDecoration: 'none', cursor: 'pointer', userSelect: 'none'}} to={handleChapterChange('next')}>⏭️</Link> : null}
+                {chapterList.indexOf(chapter) > 0 ? <Link style={{fontSize: 40, textDecoration: 'none', cursor: 'pointer', userSelect: 'none'}} to={handleChapterChange('prev')}>⏮️</Link> : <Link style={{fontSize: 40, textDecoration: 'none', cursor: 'not-allowed', userSelect: 'none', filter: 'grayscale(100%)'}}>⏮️</Link>}
+                <h1 style={{userSelect: 'none'}}>Chapter {chapter}</h1>
+                {chapterList.indexOf(chapter) < chapterList.length - 1 ? <Link style={{fontSize: 40, textDecoration: 'none', cursor: 'pointer', userSelect: 'none'}} to={handleChapterChange('next')}>⏭️</Link> : <Link style={{fontSize: 40, textDecoration: 'none', cursor: 'not-allowed', userSelect: 'none', filter: 'grayscale(100%)'}}>⏭️</Link>}
             </div>
             {availableQuestions.length > 0 && questionData[`chapter${chapter}`][availableQuestions[0]]? 
                 <Question 
@@ -84,6 +89,7 @@ const Chapter = ({chapter}) => {
                     correctCount={correctCount}
                     missedCount={missedCount}
                     missedQuestions={missedQuestions}
+                    repeatChapter={handleRepeatChapter}
                 /> }
         </div>
     )
