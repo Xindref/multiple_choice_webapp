@@ -1528,6 +1528,29 @@
             "obj": "Identify ways to reduce data entry errors.",
             "top": "Communication and Documentation",
             "msc": "Management of Care"
+          },
+          {
+            "question": "A nurse is using focused charting referred to as DAR. Match the chart entry to the correct letter of the acronym.",
+            "matching": [
+              "D",
+              "A",
+              "R"
+            ],
+            "options": [
+              "Applied oxygen, stayed with patient, and instructed to slow breathing.",
+              "Patient states, “feel better,” respirations 16 with O2 saturations 96%.",
+              "Patient states, “can't catch my breath and chest hurts.” Confused."
+            ],
+            "answer": {
+              "D": "Patient states, “can't catch my breath and chest hurts.” Confused.",
+              "A": "Applied oxygen, stayed with patient, and instructed to slow breathing.",
+              "R": "Patient states, “feel better,” respirations 16 with O2 saturations 96%."
+            },
+            "explanation": "DAR stands for Data, Action, and Response.\nThe Data in this scenario would be the patients statement of \"Can't catch my breath and chest hurts\" while confused.\nThe Action would be applying oxygen, staying with the patient, and instructing them to slow their breathing.\nThe Response would be the patient stating \"I feel better\", with respirations 16 with O2 saturations at 96%.",
+            "dif": "Apply (application)",
+            "obj": "Describe the different methods used in record keeping.",
+            "top": "Communication and Documentation",
+            "msc": "Management of Care"
           }
     ],
     "chapter31": [
@@ -2610,6 +2633,38 @@
             "explanation": "Imagery helps control or relieve pain, decrease nightmares, and improve sleep. It also aids in the treatment of chronic conditions such as irritable bowel syndrome. Increased anxiety and fear sometimes occur when imagery is used to treat posttraumatic stress disorders and social anxiety disorders. Meditation successfully reduces relapses in alcohol treatment programs.",
             "dif": "Apply (application)",
             "obj": "Identify the principles and effectiveness of imagery, meditation, and breathwork.",
+            "top": "Teaching/Learning",
+            "msc": "Health Promotion and Maintenance"
+          },
+          {
+            "question": "A nurse is teaching a class over herbs and their uses. Which condition will the nurse match to its specific herb for the teaching session?",
+            "matching": [
+              "Aloe",
+              "Garlic",
+              "Valerian",
+              "Ginger",
+              "Saw palmetto",
+              "Chaparral"
+            ],
+            "options": [
+              "Elevated cholesterol levels",
+              "Nausea and vomiting",
+              "Benign prostatic hyperplasia",
+              "Skin inflammation",
+              "Mild anxiety",
+              "Unsafe and should not be used"
+            ],
+            "answer": {
+              "Aloe": "Skin inflammation",
+              "Garlic": "Elevated cholesterol levels",
+              "Valerian": "Mild anxiety",
+              "Ginger": "Nausea and vomiting",
+              "Saw palmetto": "Benign prostatic hyperplasia",
+              "Chaparral": "Unsafe and should not be used"
+            },
+            "explanation": "Aloe would be the best match for skin inflammation.\nGarlic would be best for elevated cholestoral levels.\nValerian is best for mild anxiety.\nGinger is suited for nausea and vomiting.\nSaw palmetto would be used for Benign prostatic hyperplasia.\nChaparral is unsafe and should never be used.",
+            "dif": "Apply (application)",
+            "obj": "Describe safe and unsafe herbal therapies.",
             "top": "Teaching/Learning",
             "msc": "Health Promotion and Maintenance"
           }
@@ -4201,11 +4256,43 @@
                 "Occupational therapist",
                 "Psychologist"
             ],
-            "explanation": ", B, E, F Physical therapists are a resource for planning ROM or strengthening exercises, and occupational therapists are a resource for planning ADLs that patients need to modify or relearn. Because of the loss of 2 lb and eating very little, a dietitian will also be helpful. Referral to a mental health advanced practice nurse, a licensed social worker, or a physiologist to assist with coping or other psychosocial issues is also wise. Because the patient exhibits good cardiac and respiratory function, respiratory therapy and cardiac rehabilitation probably are not needed at this time.",
+            "explanation": "Physical therapists are a resource for planning ROM or strengthening exercises, and occupational therapists are a resource for planning ADLs that patients need to modify or relearn. Because of the loss of 2 lb and eating very little, a dietitian will also be helpful. Referral to a mental health advanced practice nurse, a licensed social worker, or a physiologist to assist with coping or other psychosocial issues is also wise. Because the patient exhibits good cardiac and respiratory function, respiratory therapy and cardiac rehabilitation probably are not needed at this time.",
             "dif": "Analyze (analysis)",
             "obj": "Develop individualized nursing care plans for patients with impaired mobility.",
             "top": "Implementation",
             "msc": "Management of Care"
+          },
+          {
+            "question": "Upon assessment a nurse discovers postural abnormalities on several patients. Match the abnormalities to the findings the nurse observed.",
+            "matching": [
+              "Lordosis",
+              "Kyphosis",
+              "Scoliosis",
+              "Genu valgum",
+              "Genu varum",
+              "Torticollis"
+            ],
+            "options": [
+              "Lateral-S- or C-shaped spinal column with vertebral rotation",
+              "Legs curved inward so knees come together as person walks",
+              "One or both legs bent outward at knee",
+              "Inclining of head to affected side",
+              "Exaggeration of anterior convex curve of lumbar spine",
+              "Increased convexity in curvature of thoracic spine"
+            ],
+            "answer": {
+              "Lordosis": "Exaggeration of anterior convex curve of lumbar spine",
+              "Kyphosis": "Increased convexity in curvature of thoracic spine",
+              "Scoliosis": "Lateral-S- or C-shaped spinal column with vertebral rotation",
+              "Genu valgum": "Legs curved inward so knees come together as person walks",
+              "Genu varum": "One or both legs bent outward at knee",
+              "Torticollis": "Inclining of head to affected side"
+            },
+            "explanation": "Lordosis: This is an exaggeration of the natural inward curve of the lumbar spine, causing a swayback appearance.\nKyphosis: This refers to an increased outward curvature of the thoracic spine, leading to a rounded or hunched back.\nScoliosis: It's a condition where the spine curves sideways in an \"S\" or \"C\" shape, often with rotation of the vertebrae.\nGenu valgum: This describes a condition where the legs curve inward at the knees, causing them to come together as the person walks.\nGenu varum: In this condition, one or both legs are bent outward at the knee, causing a bow-legged appearance.\nTorticollis: It's the inclining of the head to one side due to tight muscles in the neck, limiting movement and causing discomfort.",
+            "dif": "Understand (comprehension)",
+            "obj": "Discuss physiological and pathological influences on mobility.",
+            "top": "Assessment",
+            "msc": "Physiological Adaptation"
           }
     ],
     "chapter48": [
@@ -4996,6 +5083,35 @@
             "obj": "State evaluation criteria for a patient with impaired skin integrity.",
             "top": "Evaluation",
             "msc": "Management of Care"
+          },
+          {
+            "question": "The nurse is caring for patients who need wound dressings. Match the type of dressing the nurse applies to its description.",
+            "matching": [
+              "Gauze",
+              "Transparent",
+              "Hydrocolloid",
+              "Hydrogel",
+              "Calcium alginate"
+            ],
+            "options": [
+              "Absorbs drainage through the use of exudate absorbers in the dressing",
+              "Very soothing to the patient and do not adhere to the wound bed",
+              "Barrier to external fluids/bacteria but allows wound to “breathe”",
+              "Manufactured from seaweed and comes in sheet and rope form",
+              "Oldest and most common absorbent dressing"
+            ],
+            "answer": {
+              "Gauze": "Oldest and most common absorbent dressing",
+              "Transparent": "Barrier to external fluids/bacteria but allows wound to “breathe”",
+              "Hydrocolloid": "Absorbs drainage through the use of exudate absorbers in the dressing",
+              "Hydrogel": "Very soothing to the patient and do not adhere to the wound bed",
+              "Calcium alginate": "Manufactured from seaweed and comes in sheet and rope form"
+            },
+            "explanation": "\"Gauze\" is the oldest and most commonly used absorbent dressing, offering versatility in managing various wound types.\n\"Transparent\" dressings provide a barrier against external contaminants while allowing the wound to breathe, fostering an optimal healing environment.\n\"Hydrocolloid\" dressings utilize exudate absorbers within the dressing to efficiently absorb wound drainage, aiding in moisture balance.\n\"Hydrogel\" dressings, prized for their soothing properties, do not adhere to the wound bed, promoting pain-free dressing changes and maintaining a moist wound environment conducive to healing.\n\"Calcium alginate\" dressings, derived from seaweed, come in sheet and rope forms and are particularly effective in managing moderate to heavily draining wounds, thanks to their high absorbency and conformability to wound contours.",
+            "dif": "Understand (comprehension)",
+            "obj": "List appropriate nursing interventions for a patient with impaired skin integrity.",
+            "top": "Implementation",
+            "msc": "Basic Care and Comfort"
           }
     ]
 }
