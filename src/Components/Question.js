@@ -39,18 +39,20 @@ const Question = ({question, nextQuestion, correctCount, setCorrectCount, missed
     const handleCheckAnswer = () => {
 
         if (question.matching) {
+            let correctCount = 0;
             for (let key in question.answer) {
                 if (selectedOptions[key] === question.answer[key]) {
-                    setCorrectCount(correctCount + 1);
-                    setAnswerStatus(true);
-                } else {
-                    console.log("failed matching question");
-                    question.yourAnswer = selectedOptions;
-                    setMissedCount(missedCount + 1);
-                    setAnswerStatus(false);
-                    setMissedQuestion([...missedQuestions, question])
-                    break;
+                    correctCount++;
                 }
+            }
+            if (correctCount === Object.keys(question.answer).length) {
+                setCorrectCount(correctCount + 1);
+                setAnswerStatus(true);
+            } else {
+                question.yourAnswer = selectedOptions;
+                setMissedCount(missedCount + 1);
+                setAnswerStatus(false);
+                setMissedQuestion([...missedQuestions, question])
             }
         }
 
