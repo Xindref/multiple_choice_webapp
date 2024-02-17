@@ -102,9 +102,9 @@ const Question = ({question, nextQuestion, correctCount, setCorrectCount, missed
     }, [question])
 
     return (
-        <div>
+        <div style={{width: '100%', display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
             {!showExplanation ?
-                <div className={styles.questionContainer}>
+                <div className={!missedBool ? styles.questionContainer : styles.questionContainerResults}>
                     <h2 className={styles.question}>{question.question}</h2>
                     {!missedBool ? <button 
                         className={styles.checkAnswer} 
