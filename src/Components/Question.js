@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import styles from "./Question.module.css";
 
-const Question = ({question, nextQuestion, correctCount, setCorrectCount, missedCount, setMissedCount, missedQuestions, setMissedQuestion, questionsLeft}) => {
+const Question = ({question, nextQuestion, correctCount, setCorrectCount, missedCount, setMissedCount, missedQuestions, setMissedQuestion, questionsLeft, missedBool, yourAnswer}) => {
 
     const [selectedOptions, setSelectedOptions] = useState([]);
     const [multipleAnswer, setMultipleAnswer] = useState(false);
@@ -106,33 +106,78 @@ const Question = ({question, nextQuestion, correctCount, setCorrectCount, missed
             {!showExplanation ?
                 <div className={styles.questionContainer}>
                     <h2 className={styles.question}>{question.question}</h2>
-                    <button 
+                    {!missedBool ? <button 
                         className={styles.checkAnswer} 
                         onClick={handleCheckAnswer}>
                             Check Answer
-                    </button>
+                    </button> : null }
                     {question.matching ? 
-                        <div className={styles.optionsContainer}>
-                            {question.matching.map((topic, index) => (
-                                <div>
-                                    <p className={styles.matchingName} key={index}>{topic}</p>
-                                    <select className={styles.selectDropdown} onChange={(event) => handleMatchingChange(topic, event.target.value)}>
-                                        <option></option>
-                                        {question.options.map((option) => (
-                                            <option className={styles.matchingOption} value={option}>{option}</option>
-                                        ))}
-                                    </select>
-                                </div>
-                            ))}
+                        <div className={styles.matchingAnswerCheckContainer}>
+                            {question.matching.map((topic, index) => {
+                                if (missedBool) {
+                                    return (
+                                        <div className={styles.topicResultContainer}>
+                                            <p className={styles.matchingNameReview} key={index}>{topic}</p>
+                                            {question.answer[topic] === question.yourAnswer[topic] ?
+                                                <div className={styles.matchingAnswerCheckContainer}>
+                                                    <p className={styles.optionGood}>
+                                                    <p style={{paddingLeft: '30px', paddingRight: '30px'}} >{question.yourAnswer[topic]}</p>
+                                                        <p className={styles.greenCheck}>✅</p>
+                                                    </p>
+                                                </div> :
+                                                null }
+                                            {question.answer[topic] !== question.yourAnswer[topic] ?
+                                                <div className={styles.matchingAnswerCheckContainer}>
+                                                    <p className={styles.optionBad}>
+                                                        <p style={{paddingLeft: '30px', paddingRight: '30px'}} >{question.yourAnswer[topic]}</p>
+                                                        <p className={styles.redX}>❌</p>
+                                                    </p>
+                                                    <p className={styles.optionGood}>
+                                                        {question.answer[topic]}
+                                                    </p>
+                                                </div> : null }
+                                        </div>
+                                    )
+                                }
+                                else return (
+                                    <div>
+                                        <p className={styles.matchingName} key={index}>{topic}</p>
+                                        <select className={styles.selectDropdown} onChange={(event) => handleMatchingChange(topic, event.target.value)}>
+                                            <option></option>
+                                            {question.options.map((option) => (
+                                                <option className={styles.matchingOption} value={option}>{option}</option>
+                                            ))}
+                                        </select>
+                                    </div>
+                                )
+                            })}
                         </div> :
                     <div className={styles.optionsContainer}>
-                        {question.options.map((option) => (
-                            <div 
-                                className={`${styles.option} ${isOptionSelected(option)}`} 
-                                onClick={() => handleOptionSelect(option)}>
-                                    {option}
-                            </div>
-                        ))}
+                        {question.options.map((option) => {
+                            if (missedBool) {
+                                if (option === question.answer || question.yourAnswer.includes(option) || question.answer.includes(option)) 
+                                    return (
+                                        <div
+                                            className={question.answer.includes(option) ? styles.optionGood : styles.optionBad}>
+                                                {option}
+                                                {question.yourAnswer.includes(option) && question.answer.includes(option) ? <div className={styles.greenCheck}>✅</div> : null}
+                                                {question.yourAnswer.includes(option) && !question.answer.includes(option) ? <div className={styles.redX}>❌</div> : null}
+                                        </div>
+                                    )
+                                else return (
+                                    <div
+                                        className={styles.optionNeutral}>
+                                            {option}
+                                    </div>
+                                )
+                            } else return (
+                                <div 
+                                    className={`${styles.option} ${isOptionSelected(option)}`} 
+                                    onClick={() => handleOptionSelect(option)}>
+                                        {option}
+                                </div>
+                            )
+                        })}
                     </div> }
                 </div> : 
                 <div className={styles.explanationContainer}>

@@ -184,7 +184,12 @@
         },
         {
             "question": "The nurse is caring for a patient supported with a ventilator who has been unresponsive since arrival via ambulance 8 days ago. The patient has not been identified, and no family members have been found. The nurse is concerned about the plan of care regarding maintenance or withdrawal of life support measures. Place the steps the nurse will use to resolve this ethical dilemma in the correct order. \n1. The nurse identifies possible solutions or actions to resolve the dilemma.\n2. The nurse reviews the medical record, including entries by all health care disciplines, to gather information relevant to this patient's situation.\n3. Health care providers use negotiation to redefine the patient's plan of care.\n4. The nurse evaluates the plan and revises it with input from other health care providers as necessary.\n5. The nurse examines the issue to clarify opinions, values, and facts.\n6. The nurse states the problem.\n7. Nurse confirms that the problem is ethical in nature",
-            "options": ["6, 7, 1, 2, 5, 4, 3", "6, 7, 1, 2, 5, 4, 3", "1, 2, 5, 4, 7, 3, 6", "7, 2, 5, 6, 1, 3, 4"],
+            "options": [
+              "6, 7, 1, 2, 5, 4, 3",
+              "5, 6, 7, 2, 3, 4, 1",
+              "1, 2, 5, 4, 7, 3, 6",
+              "7, 2, 5, 6, 1, 3, 4"
+            ],
             "answer": "7, 2, 5, 6, 1, 3, 4",
             "explanation": "Step 1. Ask the question: is this an ethical problem?\nStep 2. Gather as much information as possible that is relevant to the case.\nStep 3. Examine and determine your values about the issues.\nStep 4. Verbalize and name the problem.\nStep 5. Consider possible courses of action.\nStep 6. Negotiate the outcome by creating and implementing a plan of action.\nStep 7. Evaluate the action.",
             "dif": "Analyze(analysis)",

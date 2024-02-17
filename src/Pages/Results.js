@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import styles from "./Results.module.css";
 import celebration from "../Data/celebration.png"
+import Question from "../Components/Question"
 
 
 const Results = ({totalQuestions, correctCount, missedCount, missedQuestions, repeatChapter}) => {
@@ -51,9 +52,30 @@ const Results = ({totalQuestions, correctCount, missedCount, missedQuestions, re
             </div> }
             {missedQuestions.length > 0 ? 
             <div className={styles.missedQuestionContainer}>
-                <h2 className={styles.questionHeader}>Question:</h2>
-                <p className={styles.questionText}>{missedQuestions[missedIndex].question}</p>
-                {!missedQuestions[missedIndex].matching ?
+                { Array.isArray(missedQuestions[missedIndex].answer) ? 
+                    <p>
+                        On multiple answer questions your answers will have a ✅ if you got that part 
+                        of the answer correct, no ✅ if you didn't choose it, and an ❌ with a red 
+                        highlight if it was not a part of the answer.
+                    </p> : 
+                    null
+                }
+                { missedQuestions[missedIndex].matching ?
+                    <p>
+                        On matching questions your answers will have a ✅ beside them if you
+                        got that option correct, or an ❌ if you got it incorrect. Below your
+                        incorrect answer will be the correct answer highlighted in green.
+                    </p> :
+                    null
+                }
+                {/* <h2 className={styles.questionHeader}>Question:</h2>
+                <p className={styles.questionText}>{missedQuestions[missedIndex].question}</p> */}
+                <Question
+                    question={missedQuestions[missedIndex]}
+                    missedBool = {true}
+                    yourAnswer = {missedQuestions[missedIndex].yourAnswer}
+                />
+                {/* {!missedQuestions[missedIndex].matching ?
                     <div>
                         <h2 className={styles.yourAnswerHeader}>Your Answer:</h2>
                         <p className={styles.yourAnswerText}>
@@ -78,7 +100,7 @@ const Results = ({totalQuestions, correctCount, missedCount, missedQuestions, re
                                 </div>
                             ))}
                     </div>
-                }
+                } */}
                 {missedQuestions.length > 1 ?
                 <div className={styles.buttonsContainer}>
                     {missedIndex > 0 ? 
