@@ -131,10 +131,6 @@
     user-select: none;
 }
 
-.matchingResultsContainer {
-    
-}
-
 .matchingTopic {
     font-size: 30px;
     margin: 0px;
@@ -143,11 +139,26 @@
     border-top: 3px solid black;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 700px) {
     .repeatChapterButton {
         width: 80%;
     }
     .resultsContainer {
-        width: 95%;
+        width: 96%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .missedQuestionContainer {
+        width: 96%;
+        padding: 0px;
+        margin: 0px;
+    }
+    .missedQuestionContainer p {
+        padding: 10px;
+    }
+    .repeatChapterButton {
+        margin: 20px;
     }
 }
