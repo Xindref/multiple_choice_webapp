@@ -39,13 +39,13 @@ const Question = ({question, nextQuestion, correctCount, setCorrectCount, missed
     const handleCheckAnswer = () => {
 
         if (question.matching) {
-            let correctCount = 0;
+            let correctMatches = 0;
             for (let key in question.answer) {
                 if (selectedOptions[key] === question.answer[key]) {
-                    correctCount++;
+                    correctMatches++;
                 }
             }
-            if (correctCount === Object.keys(question.answer).length) {
+            if (correctMatches === Object.keys(question.answer).length) {
                 setCorrectCount(correctCount + 1);
                 setAnswerStatus(true);
             } else {
