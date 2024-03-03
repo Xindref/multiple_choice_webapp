@@ -29,6 +29,10 @@
     min-height: 180px;
     margin-top: 0;
     white-space: pre-line;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .optionsContainer,
@@ -235,6 +239,9 @@
 
 @media (min-width: 1350px) {
     .questionContainer {
+        width: 60%;
+    }
+    .explanationContainer {
         width: 60%;
     }
 }

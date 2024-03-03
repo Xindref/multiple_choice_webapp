@@ -68,39 +68,11 @@ const Results = ({totalQuestions, correctCount, missedCount, missedQuestions, re
                     </p> :
                     null
                 }
-                {/* <h2 className={styles.questionHeader}>Question:</h2>
-                <p className={styles.questionText}>{missedQuestions[missedIndex].question}</p> */}
                 <Question
                     question={missedQuestions[missedIndex]}
                     missedBool = {true}
                     yourAnswer = {missedQuestions[missedIndex].yourAnswer}
                 />
-                {/* {!missedQuestions[missedIndex].matching ?
-                    <div>
-                        <h2 className={styles.yourAnswerHeader}>Your Answer:</h2>
-                        <p className={styles.yourAnswerText}>
-                            {Array.isArray(missedQuestions[missedIndex].yourAnswer) ? 
-                            missedQuestions[missedIndex].yourAnswer.map((answer) => answer).join(',\n') : 
-                            missedQuestions[missedIndex].yourAnswer }
-                        </p>
-                        <h2 className={styles.correctAnswerHeader}>Correct Answer:</h2>
-                        <p className={styles.correctAnswerText}>
-                            {Array.isArray(missedQuestions[missedIndex].answer) ? 
-                            missedQuestions[missedIndex].answer.map((answer) => answer).join(',\n') : 
-                            missedQuestions[missedIndex].answer }
-                        </p>
-                    </div> :
-                    <div className={styles.matchingResultsContainer}>
-                        {matchingObject &&
-                            matchingObject.topics.map((topic, index) => (
-                                <div>
-                                    <p className={styles.matchingTopic}>{topic}</p>
-                                    <p className={styles.correctAnswerText}>{`Correct: ${matchingObject.correctAnswers[index]}`}</p>
-                                    <p className={matchingObject.correctAnswers[index] !== matchingObject.yourAnswers[index] ? styles.yourAnswerText : styles.correctAnswerText} >{`Yours: ${matchingObject.yourAnswers[index] || "\" \""}`}</p>
-                                </div>
-                            ))}
-                    </div>
-                } */}
                 {missedQuestions.length > 1 ?
                 <div className={styles.buttonsContainer}>
                     {missedIndex > 0 ? 

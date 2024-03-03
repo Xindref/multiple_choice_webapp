@@ -99,7 +99,7 @@ const Question = ({question, nextQuestion, correctCount, setCorrectCount, missed
         }
 
         checkMultipleAnswer();
-        window.scrollTo({top: 0, behavior: 'smooth'});
+        !missedBool && window.scrollTo({top: 0, behavior: 'smooth'});
         setShowExplanation(false);
     }, [question])
 
