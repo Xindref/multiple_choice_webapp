@@ -6,7 +6,7 @@ const NavBar = () => {
 
     const [isDropdownOpen, setDropdownOpen] = useState(false);
 
-    const chapterList = [22, 23, 25, 26, 31, 32, 37, 38, 39, 48];
+    const chapterList = [3, 6, 11, 22, 23, 25, 26, 31, 32, 37, 38, 39, 43, 48];
 
     const toggleDropdown = () => {
         setDropdownOpen(!isDropdownOpen);

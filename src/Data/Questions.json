@@ -11,6 +11,1015 @@
             "msc": "Health Promotion and Maintenance"
         }
     ],
+    "chapter3": [
+      {
+        "question": "A nurse is working as a public health nurse. What will be the nurse’s primary focus?",
+        "options": [
+          "The individual as one member of a group",
+          "Individuals and families",
+          "Needs of a population",
+          "Health promotion"
+        ],
+        "answer": "Needs of a population",
+        "explanation": "Public health nursing primary focus is understanding the needs of a population. Community-based care focuses on health promotion. Community health nursing focuses on health care of individuals, families, and groups within the community.",
+        "dif": "Understand (comprehension)",
+        "obj": "Explain the relationship between public health and community health nursing.",
+        "top": "Caring",
+        "msc": "Management of Care"
+      },
+      {
+        "question": "A nurse wants to become a specialist in public health nursing. Which educational requirement will the nurse have to obtain?",
+        "options": [
+          "A baccalaureate degree in nursing",
+          "Preparation at the basic entry level",
+          "The same level of education as the community health nurse",
+          "A graduate level education with a focus in public health science"
+        ],
+        "answer": "A graduate level education with a focus in public health science",
+        "explanation": "A specialist in public health has a graduate level education with a focus in public health science. Public health nursing requires preparation at the basic entry level and sometimes requires a baccalaureate degree in nursing. A community health nurse is not the same thing as a public health nursing specialist.",
+        "dif": "Understand (comprehension)",
+        "obj": "Explain the relationship between public health and community health nursing.",
+        "top": "Teaching/Learning",
+        "msc": "Management of Care"
+      },
+      {
+        "question": "A nurse is working as a community health nurse. Which action is a priority for this nurse?",
+        "options": [
+          "Provide direct care to subpopulations.",
+          "Focus on the needs of the ill individual.",
+          "Provide first level of contact to health care systems.",
+          "Focus on providing care in various community settings."
+        ],
+        "answer": "Provide direct care to subpopulations.",
+        "explanation": "Community health nursing is nursing practice in the community, with the primary focus on the health care of individuals, families, and groups within the community. In addition, the community health nurse provides direct care services to subpopulations within a community. Community-based nursing centers function as the first level of contact between members of a community and the health care system. Community-based nursing focuses on providing care in various community settings, such as the home or a clinic and involves acute and chronic care.",
+        "dif": "Apply (application)",
+        "obj": "Differentiate community health nursing from community-based nursing.",
+        "top": "Implementation",
+        "msc": "Health Promotion and Maintenance"
+      },
+      {
+        "question": "A nurse is focusing on acute and chronic care of individuals and families within a community while enhancing patient autonomy. Which type of nursing care is the nurse providing?",
+        "options": [
+          "Public health",
+          "Community health",
+          "Community-based",
+          "Community assessment"
+        ],
+        "answer": "Community-based",
+        "explanation": "Community-based nursing involves acute and chronic care of individuals and families and enhances their capacity for self-care while promoting autonomy in decision making. Public health nursing focuses on the needs of a population. Community health nursing cares for the community as a whole and considers the individual or the family as only one member of a group at risk. Community assessment is the systematic data collection on the population, monitoring the health status of the population, and making information available about the health of the community.",
+        "dif": "Understand (comprehension)",
+        "obj": "Differentiate community health nursing from community-based nursing.",
+        "top": "Implementation",
+        "msc": "Management of Care"
+      },
+      {
+        "question": "The community health nurse is administering flu shots to children at a local playground. What is the rationale for this nurse’s action?",
+        "options": [
+          "To prevent individual illness",
+          "To prevent community outbreak of illness",
+          "To prevent outbreak of illness in the family",
+          "To prevent needs of the local population groups"
+        ],
+        "answer": "To prevent community outbreak of illness",
+        "explanation": "The nurse is trying to prevent a community outbreak of illness. By focusing on subpopulations (children), the community health nurse cares for the community as a whole and considers the individual or the family as only one member of a group at risk. Community-based nursing, as opposed to community health nursing, focuses on the needs of the individual or family. Public health nursing focuses on meeting the population groups’ needs.",
+        "dif": "Apply (application)",
+        "obj": "Discuss the role of the community health nurse.",
+        "top": "Planning",
+        "msc": "Health Promotion and Maintenance"
+      },
+      {
+        "question": "A nurse attended a seminar on community-based health care. Which information indicates the nurse has a good understanding of community-based health care?",
+        "options": [
+          "It occurs in hospitals.",
+          "Its focus is on ill individuals.",
+          "Its priority is health promotion.",
+          "It provides services primarily to the poor."
+        ],
+        "answer": "Its priority is health promotion.",
+        "explanation": "Community-based health care is a model of care that reaches everyone in the community (including the poor and underinsured), focuses on primary rather than institutional or acute care, and provides knowledge about health and health promotion and models of care to the community. Community-based health care occurs outside traditional health care institutions such as hospitals.",
+        "dif": "Understand (comprehension)",
+        "obj": "Explain the relationship between public health and community health nursing.",
+        "top": "Teaching/Learning",
+        "msc": "Health Promotion and Maintenance"
+      },
+      {
+        "question": "A nurse is using the Healthy People 2020 to establish goals for the community. Which goal is priority?",
+        "options": [
+          "Reduce health care costs.",
+          "Increase life expectancy.",
+          "Provide services close to where patients live.",
+          "Isolate patients to prevent the spread of disease."
+        ],
+        "answer": "Increase life expectancy.",
+        "explanation": "The overall goals of Healthy People 2020 are to increase life expectancy and quality of life and eliminate health disparities through an improved delivery of health care services. It does not focus on reducing health care costs, providing services close to where patients live, or isolating patients to prevent the spread of disease.",
+        "dif": "Understand (comprehension)",
+        "obj": "Discuss the role of the nurse in community-based practice.",
+        "top": "Planning",
+        "msc": "Health Promotion and Maintenance"
+      },
+      {
+        "question": "A nurse is working in community-based nursing. Which competency is priority for this nurse?",
+        "options": [
+          "Caregiver",
+          "Collaborator",
+          "Change agent",
+          "Case manager"
+        ],
+        "answer": "Caregiver",
+        "explanation": "First and foremost is the role of caregiver. While collaborator, change agent, and case manager are important, they are not the priority.",
+        "dif": "Apply (application)",
+        "obj": "Describe the competencies important for success in community-based nursing practice.",
+        "top": "Implementation",
+        "msc": "Management of Care"
+      },
+      {
+        "question": "A nurse observes an outbreak of lice in a certain school district. The nurse collects data and identifies a common practice of sharing lockers, caps, and hair brushes. The nurse shares the information with the school. Which community-based nursing competency did the nurse use?",
+        "options": [
+          "Educator",
+          "Caregiver",
+          "Case manager",
+          "Epidemiologist"
+        ],
+        "answer": "Epidemiologist",
+        "explanation": "As an epidemiologist, you are involved in case finding, health teaching, and tracking incident rates of an illness (outbreak of lice). The nurse did not teach the students about lice. The nurse did not provide care for the lice. The nurse did not coordinate needed resources and services for a group of patient’s well-being (case manager).",
+        "dif": "Apply (application)",
+        "obj": "Describe the competencies important for success in community-based nursing practice.",
+        "top": "Implementation",
+        "msc": "Safety and Infection Control"
+      },
+      {
+        "question": "A nurse is providing screening at a health fair. Which finding indicates the person may be a vulnerable patient who is most likely to develop health problems?",
+        "options": [
+          "One who is pregnant.",
+          "One who has excessive risks.",
+          "One who has unlimited access to health care.",
+          "One who uses nontraditional healing practices."
+        ],
+        "answer": "One who has excessive risks.",
+        "explanation": "Vulnerable populations are the patients who are more likely to develop health problems as a result of excessive risks or limits in access to health care services or who are dependent on others for care. Pregnancy is not a cause of vulnerability, except in cases where the mother is an adolescent, is addicted to drugs, or is at high risk for other reasons. A person who has unlimited access to health care is not vulnerable. Frequently, the immigrant population practices nontraditional healing practices. Many of these healing practices are effective and complement traditional therapies.",
+        "dif": "Understand (comprehension)",
+        "obj": "Identify characteristics of patients from vulnerable populations that influence the community-based nurse’s approach to care.",
+        "top": "Assessment",
+        "msc": "Health Promotion and Maintenance"
+      },
+      {
+        "question": "The instructor is teaching student nurses about identifying members of vulnerable populations when the nursing student asks, “Why is it that not all poor people are considered members of vulnerable populations?” How should the nurse respond?",
+        "options": [
+          "“All poor people are members of a vulnerable population.”",
+          "“Poor people are members of a vulnerable population only if they take drugs.”",
+          "“Poor people are members of a vulnerable population only if they are homeless.”",
+          "“Members of vulnerable groups frequently have a combination of risk factors.”"
+        ],
+        "answer": "“Members of vulnerable groups frequently have a combination of risk factors.”",
+        "explanation": "Members of vulnerable groups frequently have many risks or a combination of risk factors that make them more sensitive to the negative effects of individual risk factors. Individual risk factors are not always overwhelming, depending on the patient’s beliefs and values and sources of social support.",
+        "dif": "Apply (application)",
+        "obj": "Identify characteristics of patients from vulnerable populations that influence the community-based nurse’s approach to care.",
+        "top": "Teaching/Learning",
+        "msc": "Health Promotion and Maintenance"
+      },
+      {
+        "question": "The nurse is making a home visit to a Korean mother after the birth of girl. The spouse is pressing different parts of the patient’s hand and lower arm to relieve a headache. What is the nurse’s next action?",
+        "options": [
+          "Tell the spouse to stop and give the mother acetaminophen.",
+          "Let the spouse finish and then give the mother medication.",
+          "Ask the mother and/or spouse to explain the procedure.",
+          "Explain to the spouse that it will not work."
+        ],
+        "answer": "Ask the mother and/or spouse to explain the procedure.",
+        "explanation": "The nurse should not judge the patient’s/family’s beliefs and values about health. The nurse needs to understand cultural beliefs, values, and practices to determine their specific needs. Acetaminophen may not be an acceptable alternative for this family. Criticizing the family’s beliefs and practices or saying they will not work may only create a barrier to care.",
+        "dif": "Analyze (analysis)",
+        "obj": "Identify characteristics of patients from vulnerable populations that influence the community-based nurse’s approach to care.",
+        "top": "Implementation",
+        "msc": "Psychosocial Integrity"
+      },
+      {
+        "question": "A nurse is assessing the social system of a community. Which area should the nurse assess?",
+        "options": [
+          "Housing",
+          "Economic status",
+          "Volunteer programs",
+          "Predominant ethnic groups"
+        ],
+        "answer": "Volunteer programs",
+        "explanation": "Social systems include volunteer programs, education system, government, and health systems. Housing and economic status are included in the structure assessment. Predominant ethnic groups are a component of the population assessment.",
+        "dif": "Understand (comprehension)",
+        "obj": "Describe elements of a community assessment.",
+        "top": "Assessment",
+        "msc": "Psychosocial Integrity"
+      },
+      {
+        "question": "The nurse is working with a 16-year-old pregnant female who tells the nurse that she needs an abortion. The nurse, acting as a counselor, provides the patient with information on alternatives to abortion, but after several sessions, the patient still insists on having the abortion. What should the nurse, in the counselor role, do next?",
+        "options": [
+          "Encourage the patient to speak with a “Right-to-Life” advocate.",
+          "Refuse to provide a referral to an abortion service.",
+          "Provide referral to an abortion service.",
+          "Delay referral to an abortion service."
+        ],
+        "answer": "Provide referral to an abortion service.",
+        "explanation": "As a counselor, the nurse is responsible for providing information, listening objectively, and being supportive, caring, and trustworthy and providing a referral to an abortion service. The nurse does not make decisions, like going to a “Right-to-Life” advocate, but rather helps the patient reach decisions that are best for him or her. To refuse to provide a referral or to delay referral would not be supportive of the patient’s decision.",
+        "dif": "Apply (application)",
+        "obj": "Describe the competencies important for success in community-based nursing practice.",
+        "top": "Implementation",
+        "msc": "Psychosocial Integrity"
+      },
+      {
+        "question": "Before a patient with beginning stage of Alzheimer’s disease is discharged, the community-based nurse is making a visit to the patient’s home. The patient’s daughter and family live in the home with the patient. What is the major focus of this visit?",
+        "options": [
+          "Teach the family how to monitor blood pressure.",
+          "Demonstrate techniques for providing care.",
+          "Stress to the family how difficult it will be to provide care at home.",
+          "Encourage the family to send the patient to an extended care facility."
+        ],
+        "answer": "Demonstrate techniques for providing care.",
+        "explanation": "The role of the community health nurse, when dealing with patients with Alzheimer’s disease, is to maintain the best possible functioning, protection, and safety for the patient. The nurse should demonstrate to the primary family caregiver techniques for dressing, feeding, and toileting the patient while providing encouragement and emotional support to the caregiver. Monitoring blood pressure is not necessary for an Alzheimer’s patient; blood pressure would be for a patient with hypertension. The nurse should protect the patient’s rights and maintain family stability, not encourage placement in an extended care facility.",
+        "dif": "Apply (application)",
+        "obj": "Describe the competencies important for success in community-based nursing practice.",
+        "top": "Implementation",
+        "msc": "Management of Care"
+      },
+      {
+        "question": "While conducting a community assessment, the nurse seeks data on the average household income and the number of residents on public assistance. In doing so, the nurse is evaluating which component of a community assessment?",
+        "options": [
+          "Structure",
+          "Population",
+          "Social system",
+          "Welfare system"
+        ],
+        "answer": "Structure",
+        "explanation": "Economic status is part of the community structure. Population would involve age and gender distribution, growth trends, density, education level, and ethnic or religious groups. The welfare system is part of the social system that also includes the education, government, communication, and health systems.",
+        "dif": "Understand (comprehension)",
+        "obj": "Describe elements of a community assessment.",
+        "top": "Assessment",
+        "msc": "Health Promotion and Maintenance"
+      },
+      {
+        "question": "The nurse uses statistics on increased incidence of communicable disease to influence legislatures to pass a bill for mandatory vaccinations to enroll in school. Which type of nursing will the nurse use in this process?",
+        "options": [
+          "Public health nursing",
+          "Community-based nursing",
+          "Community health nursing",
+          "Vulnerable population nursing"
+        ],
+        "answer": "Public health nursing",
+        "explanation": "A public health nurse understands factors that influence health promotion and health maintenance, the trends and patterns influencing the incidence of disease within populations, environmental factors contributing to health and illness, and the political processes used to affect public policy. Community health nursing is nursing practice in the community, with the primary focus on the health care of individuals, families, and groups within the community. Community-based nursing care takes place in community settings such as the home or a clinic, where the focus is on the needs of the individual or family. While there is no specific vulnerable population nursing, all types of nursing should care for these populations.",
+        "dif": "Analyze (analysis)",
+        "obj": "Explain the relationship between public health and community health nursing.",
+        "top": "Evaluation",
+        "msc": "Health Promotion and Maintenance"
+      },
+      {
+        "question": "A community-based nursing is working with a family. For which key areas will the nurse need a strong knowledge base? (Select all that apply.)",
+        "options": [
+          "Family theory",
+          "Communication",
+          "Group dynamics",
+          "Cultural diversity",
+          "Individual-centered care"
+        ],
+        "answer": [
+          "Family theory",
+          "Communication",
+          "Group dynamics",
+          "Cultural diversity"
+        ],
+        "explanation": "With the individual and family as the patients, the context of community-based nursing is family-centered care (not individual-centered care) within the community. This focus requires a strong knowledge base in family theory, principles of communication, group dynamics, and cultural diversity. The nurse leans to partner with patients and families, not just with individuals.",
+        "dif": "Understand (comprehension)",
+        "obj": "Discuss the role of the nurse in community-based practice.",
+        "top": "Teaching/Learning",
+        "msc": "Health Promotion and Maintenance"
+      },
+      {
+        "question": "Offering which community-based nursing activities indicates the nurse is working in the role of educator? (Select all that apply.)",
+        "options": [
+          "Prenatal classes",
+          "A child safety program",
+          "To defend patients’ decisions",
+          "Creative solutions to local problems",
+          "To coordinate resources after discharge"
+        ],
+        "answer": [
+          "Prenatal classes",
+          "A child safety program"
+        ],
+        "explanation": "Prenatal classes, infant care, child safety, and cancer screening are just some of the health education programs provided in a community practice setting. Offers to defend patients’ decisions is the role of patient advocate. Offers creative solutions to local problems indicates a change agent. Collaborator will offer to coordinate resources after discharge.",
+        "dif": "Apply (application)",
+        "obj": "Describe the competencies important for success in community-based nursing practice.",
+        "top": "Teaching/Learning",
+        "msc": "Health Promotion and Maintenance"
+      },
+      {
+        "question": "A nurse is caring for vulnerable populations in a local community. Which patients will the nurse care for in this community? (Select all that apply.)",
+        "options": [
+          "A 47-year-old immigrant who speaks only Spanish",
+          "A 35-year-old living in own home",
+          "A 22-year-old pregnant woman",
+          "A 40-year-old schizophrenic",
+          "A 15-year-old rape victim"
+        ],
+        "answer": [
+          "A 47-year-old immigrant who speaks only Spanish",
+          "A 40-year-old schizophrenic",
+          "A 15-year-old rape victim"
+        ],
+        "explanation": "Individuals living in poverty, older adults, people who are homeless, immigrant populations, individuals in abusive relationships (rape), substance abusers, and people with severe mental illnesses (schizophrenic) are examples of vulnerable populations. Middle-aged people living in their own home are not an example of a vulnerable population. Pregnancy is not an example of a vulnerable population.",
+        "dif": "Analyze (analysis)",
+        "obj": "Identify characteristics of patients from vulnerable populations that influence the community-based nurse’s approach to care.",
+        "top": "Implementation",
+        "msc": "Psychosocial Integrity"
+      },
+      {
+        "question": "A nurse is discussing nursing actions that can lead to breaches of nursing practice. Match the example to the term it describes.",
+          "matching": [
+            "Structure",
+            "Population",
+            "Social system"
+          ],
+          "options": [
+            "Education level",
+            "Housing",
+            "Government"
+          ],
+          "answer": {
+            "Structure": "Housing",
+            "Population": "Education level",
+            "Social system": "Government"
+          },
+          "explanation": "In assessing a community, a nurse examines various elements to understand its dynamics and needs. Housing (Structure) is evaluated through the area's encompassing residences, living conditions, and availability. Education level (Population) is analyzed by determining literacy rates and access to resources. Government (Social system) can be assessed by focusing on governance structure and policies. By evaluating housing, education level, and government, the nurse gains insights into the community's health and tailors interventions accordingly.",
+          "dif":"Apply (application)",
+          "obj": "Analyze nursing actions most often associated in a breach of nursing practice.",
+          "top": "Implementation",
+          "msc": "Management of Care"
+      }
+    ],
+    "chapter6": [
+      {
+        "question": "A nurse is teaching about the goals of Healthy People 2020. Which information should the nurse include in the teaching session?",
+        "options": [
+          "Eliminate health disparities in America.",
+          "Eliminate health behaviors in America.",
+          "Eliminate quality of life in America.",
+          "Eliminate healthy life in America."
+        ],
+        "answer": "Eliminate health disparities in America.",
+        "explanation": "The nurse should include eliminating health disparities in America. Healthy People 2020 promotes a society in which all people live long, healthy lives. There are four overarching goals: (1) attain high-quality, longer lives free of preventable disease, disability, injury, and premature death; (2) achieve health equity, eliminate disparities, and improve the health of all groups; (3) create social and physical environments that promote good health for all; and (4) promote quality of life, healthy development, and healthy behaviors across all life stages.",
+        "dif": "Understand (comprehension)",
+        "obj": "List the four general Healthy People 2020 public health goals for Americans.",
+        "top": "Teaching/Learning",
+        "msc": "Health Promotion and Maintenance"
+      },
+      {
+        "question": "A nurse is following the goals of Healthy People 2020 to provide care. Which action should the nurse take?",
+        "options": [
+          "Allow people to continue current behaviors to reduce the stress of change.",
+          "Focus only on health changes that will lead to better local communities.",
+          "Create social and physical environments that promote good health.",
+          "Focus on illness treatment to provide fast recuperation."
+        ],
+        "answer": "Create social and physical environments that promote good health.",
+        "explanation": "Healthy People 2020 includes four goals, one of which is to create social and physical environments that promote good health for all. The goals do not include continuing current behaviors to reduce stress, focusing only on health changes for communities, or focusing on fast recuperation.",
+        "dif": "Apply (application)",
+        "obj": "List the four general Healthy People 2020 public health goals for Americans.",
+        "top": "Implementation",
+        "msc": "Health Promotion and Maintenance"
+      },
+      {
+        "question": "A nurse is using the World Health Organization definition of health to provide care. Which area will the nurse focus on while providing care?",
+        "options": [
+          "Focusing on helping patients be disease free",
+          "Providing care that involves the whole person",
+          "Assuring that care is strictly personal in nature",
+          "Directing focus only on the pathological state"
+        ],
+        "answer": "Providing care that involves the whole person",
+        "explanation": "The World Health Organization (WHO) defines health as a “state of complete physical, mental, and social well-being, not merely the absence of disease or infirmity.” Therefore, nurses’ attitudes toward health and illness should consider the total person, as well as the environment in which the person lives. All people free of disease are not necessarily healthy. Strictly personal and a focus only on pathological states do not correlate to WHO’s definition.",
+        "dif": "Apply (application)",
+        "obj": "Discuss the definition of health.",
+        "top": "Implementation",
+        "msc": "Management of Care"
+      },
+      {
+        "question": "The nurse is preparing a smoking cessation class for family members of patients with lung cancer. The nurse believes that the class will convert many smokers to nonsmokers once they realize the benefits of not smoking. Which health care model is the nurse following?",
+        "options": [
+          "Health belief model",
+          "Holistic health model",
+          "Health promotion model",
+          "Maslow’s hierarchy of needs"
+        ],
+        "answer": "Health belief model",
+        "explanation": "The health belief model addresses the relationship between a person’s beliefs and behaviors. The holistic health model recognizes the natural healing abilities of the body and incorporates complementary and alternative interventions such as music therapy. The health promotion model focuses on the following three areas: (1) individual characteristics and experiences, (2) behavior-specific knowledge and affect, and (3) behavioral outcomes, in which the patient commits to or changes a behavior. Maslow’s’ hierarchy of needs is based on the theory that all people share basic human needs, and the extent to which basic needs are met is a major factor in determining a person’s level of health.",
+        "dif": "Analyze (analysis)",
+        "obj": "Discuss the health belief, health promotion, basic human needs, and holistic health models to understand the relationship between",
+        "top": "Implementation",
+        "msc": "Health Promotion and Maintenance"
+      },
+      {
+        "question": "A nurse is using Maslow’s hierarchy to prioritize care for an anxious patient that is not eating and will not see family members. Which area should the nurse address first?",
+        "options": [
+          "Anxiety",
+          "Not eating",
+          "Mental health",
+          "Not seeing family members"
+        ],
+        "answer": "Not eating",
+        "explanation": "According to Maslow, in all cases an emergent physiological need takes precedence over a higher-level need. Nutrition is a physiological need and should be addressed first. Anxiety, mental health, and not seeing family members are all higher-level needs.",
+        "dif": "Analyze (analysis)",
+        "obj": "Discuss the health belief, health promotion, basic human needs, and holistic health models to understand the relationship between",
+        "top": "Implementation",
+        "msc": "Management of Care"
+      },
+      {
+        "question": "The patient is reporting moderate incisional pain that was not relieved by the last dose of pain medication. The patient is not due for another dose of medication for another 2 1/2 hours. The nurse repositions the patient, asks what type of music the patient likes, and sets the television to the channel playing that type of music. Which health care model is the nurse using?",
+        "options": [
+          "Health belief model",
+          "Holistic health model",
+          "Health promotion model",
+          "Maslow’s hierarchy of needs"
+        ],
+        "answer": "Holistic health model",
+        "explanation": "The holistic health model recognizes the natural healing abilities of the body and incorporates complementary and alternative interventions such as music therapy. The health belief model addresses the relationship between a person’s beliefs and behaviors. The health promotion model notes that each person has unique personal characteristics and experiences that affect subsequent actions. The basic human needs model believes that the extent to which basic needs are met is a major factor in determining a person’s level of health. Maslow’s hierarchy of needs is a model that nurses use to understand the interrelationships of basic human needs.",
+        "dif": "Apply (application)",
+        "obj": "Discuss the health belief, health promotion, basic human needs, and holistic health models to understand the relationship between",
+        "top": "Implementation",
+        "msc": "Management of Care"
+      },
+      {
+        "question": "A nurse is assessing internal variables that are affecting the patient’s health status. Which area should the nurse assess?",
+        "options": [
+          "Perception of functioning",
+          "Socioeconomic factors",
+          "Cultural background",
+          "Family practices"
+        ],
+        "answer": "Perception of functioning",
+        "explanation": "Internal variables include a person’s developmental stage, intellectual background, perception of functioning, and emotional and spiritual factors. External variables influencing a person’s health beliefs and practices include family practices, socioeconomic factors, and cultural background.",
+        "dif": "Apply (application)",
+        "obj": "Describe variables influencing health beliefs and practices.",
+        "top": "Assessment",
+        "msc": "Health Promotion and Maintenance"
+      },
+      {
+        "question": "The nurse is admitting a patient with uncontrolled diabetes mellitus. It is the fourth time the patient is being admitted in the last 6 months for high blood glucose levels. During the admission process, the nurse asks the patient about employment status and displays a nonjudgmental attitude. What is the rationale for the nurse’s actions?",
+        "options": [
+          "External variables have little effect on compliance.",
+          "A person’s compliance is affected by economic status.",
+          "Employment status is an internal variable that impacts compliance.",
+          "Noncompliant patients thrive on the disapproval of authority figures."
+        ],
+        "answer": "A person’s compliance is affected by economic status.",
+        "explanation": "A person’s compliance with treatment is affected by economic status. A person tends to give a higher priority to food and shelter than to costly drugs or treatments. External variables can have a major impact on compliance. Employment status is an external variable, not an internal variable. A person generally seeks approval and support from social networks, and this desire for approval affects health beliefs and practices; noncompliance does not occur from thriving on disapproval of authority figures.",
+        "dif": "Apply (application)",
+        "obj": "Describe variables influencing health beliefs and practices.",
+        "top": "Implementation",
+        "msc": "Health Promotion and Maintenance"
+      },
+      {
+        "question": "The nurse is working on a committee to evaluate the need for increasing the levels of fluoride in the drinking water of the community. Which concept is the nurse fostering?",
+        "options": [
+          "Illness prevention",
+          "Wellness education",
+          "Active health promotion",
+          "Passive health promotion"
+        ],
+        "answer": "Passive health promotion",
+        "explanation": "Fluoridation of municipal drinking water and fortification of homogenized milk with vitamin D are examples of passive health promotion strategies. With active strategies of health promotion, individuals are motivated to adopt specific health programs such as weight reduction and smoking cessation programs. Illness prevention activities such as immunization programs protect patients from actual or potential threats to health. Wellness education teaches people how to care for themselves in a healthy way.",
+        "dif": "Understand (comprehension)",
+        "obj": "Describe health promotion, wellness, and illness prevention activities.",
+        "top": "Implementation",
+        "msc": "Health Promotion and Maintenance"
+      },
+      {
+        "question": "The nurse is working in a clinic that is designed to provide health education and immunizations. Which type of preventive care is the nurse providing?",
+        "options": [
+          "Primary prevention",
+          "Secondary prevention",
+          "Tertiary prevention",
+          "Risk factor prevention"
+        ],
+        "answer": "Primary prevention",
+        "explanation": "Primary prevention precedes disease or dysfunction and is applied to people considered physically and emotionally healthy. Primary prevention includes health education programs, immunizations, and physical and nutritional fitness activities. Secondary prevention focuses on individuals who are experiencing health problems or illnesses and who are at risk for developing complications or worsening conditions. Activities are directed at diagnosis and prompt intervention. Tertiary prevention occurs when a defect or disability is permanent and irreversible. It involves minimizing the effects of long-term disease or disability through interventions directed at preventing complications and deterioration. While risk factor modification is an integral component of health promotion, it is not a type of preventive care.",
+        "dif": "Understand (comprehension)",
+        "obj": "Discuss the three levels of preventive care.",
+        "top": "Implementation",
+        "msc": "Health Promotion and Maintenance"
+      },
+      {
+        "question": "The patient is admitted to the emergency department of the local hospital from home with reports of chest discomfort and shortness of breath. The patient is placed on oxygen, has labs and blood gases drawn, and is given an electrocardiogram and breathing treatments. Which level of preventive care is this patient receiving?",
+        "options": [
+          "Primary prevention",
+          "Secondary prevention",
+          "Tertiary prevention",
+          "Health promotion"
+        ],
+        "answer": "Secondary prevention",
+        "explanation": "Secondary prevention focuses on individuals who are experiencing health problems or illnesses and who are at risk for developing complications or worsening conditions. Activities are directed at diagnosis and prompt intervention. Primary prevention precedes disease or dysfunction and is applied to people considered physically and emotionally healthy. Health promotion includes health education programs, immunizations, and physical and nutritional fitness activities for healthy people. Tertiary prevention occurs when a defect or disability is permanent and irreversible. It involves minimizing the effects of long-term disease or disability through interventions directed at preventing complications and deterioration.",
+        "dif": "Apply (application)",
+        "obj": "Discuss the three levels of preventive care.",
+        "top": "Evaluation",
+        "msc": "Management of Care"
+      },
+      {
+        "question": "A patient is admitted to a rehabilitation facility following a stroke. The patient has right-sided paralysis and is unable to speak. The patient will be receiving physical therapy and speech therapy. Which level of preventive care is the patient receiving?",
+        "options": [
+          "Primary prevention",
+          "Secondary prevention",
+          "Tertiary prevention",
+          "Health promotion"
+        ],
+        "answer": "Tertiary prevention",
+        "explanation": "Tertiary prevention occurs when a defect or disability is permanent and irreversible. It involves minimizing the effects of long-term disease or disability through interventions directed at preventing complications and deterioration. Secondary prevention focuses on individuals who are experiencing health problems or illnesses and who are at risk for developing complications or worsening conditions. Activities are directed at diagnosis and prompt intervention. Primary prevention precedes disease or dysfunction and is applied to people considered physically and emotionally healthy. Health promotion includes health education programs, immunizations, and physical and nutritional fitness activities.",
+        "dif": "Apply (application)",
+        "obj": "Discuss the three levels of preventive care.",
+        "top": "Evaluation",
+        "msc": "Management of Care"
+      },
+      {
+        "question": "Upon completing a history, the nurse finds that a patient has risk factors for developing lung disease. How should the nurse interpret this finding?",
+        "options": [
+          "A person with the risk factor will get the disease.",
+          "The chances of getting the disease are increased.",
+          "Risk modification will have no effect on disease prevention.",
+          "The disease is guaranteed not to develop if the risk factor is controlled."
+        ],
+        "answer": "The chances of getting the disease are increased.",
+        "explanation": "The presence of risk factors does not mean that a disease will develop, but risk factors increase the chances that the individual will experience a particular disease or dysfunction. Control of risk factors does not guarantee that a disease will not develop. However, risk factor modification can assist patients in adopting activities to promote health and decrease risks of illness.",
+        "dif": "Understand (comprehension)",
+        "obj": "Describe four types of risk factors affecting health.",
+        "top": "Assessment",
+        "msc": "Health Promotion and Maintenance"
+      },
+      {
+        "question": "The nurse is caring for a patient who has been trying to quit smoking. The patient has been smoke free for 2 weeks but had two cigarettes last night and at least two this morning. What should the nurse anticipate?",
+        "options": [
+          "The patient does not want to and will never quit smoking.",
+          "The patient must pick up the attempt right where the patient left off.",
+          "The patient will return to the contemplation or precontemplation phase.",
+          "The patient will need to adopt a new lifestyle for change to be effective."
+        ],
+        "answer": "The patient will return to the contemplation or precontemplation phase.",
+        "explanation": "When relapse occurs, the person will return to the contemplation or precontemplation stage before attempting the change again. The patient cannot pick up the attempt where left off. It is believed that change involves movement through a series of stages (precontemplation, contemplation, preparation, action, and maintenance). Anticipating that the patient does not want to and will never quit is premature. While the patient will need to adopt a new lifestyle for change to be effective, it does not correlate to this scenario since the patient relapsed.",
+        "dif": "Understand (comprehension)",
+        "obj": "Discuss risk factor modification and changing health behaviors.",
+        "top": "Planning",
+        "msc": "Health Promotion and Maintenance"
+      },
+      {
+        "question": "The nurse is working in a drug rehabilitation clinic and is in the process of admitting a patient for “detox.” What should the nurse do next?",
+        "options": [
+          "Identify the patient’s stage of change.",
+          "Realize that the patient is ready to change.",
+          "Teach the patient that choices will have to change.",
+          "Instruct the patient that relapses will not be tolerated."
+        ],
+        "answer": "Identify the patient’s stage of change.",
+        "explanation": "The nurse should identify the stage of change and assess where the patient is currently in this situation. To be most effective, nursing interventions should match the stage of change. The nurse cannot realize the patient is ready for change because only a minority of people are actually in the action stage of changing. While teaching that choices will have to change, it will follow later after the nurse has determined which stage the person is in. As individuals attempt a change in behavior, relapse followed by recycling through the stages occurs frequently.",
+        "dif": "Analyze (analysis)",
+        "obj": "Discuss risk factor modification and changing health behaviors.",
+        "top": "Implementation",
+        "msc": "Management of Care"
+      },
+      {
+        "question": "A female patient has been overweight for most of her life. She has tried dieting in the past and has lost weight, only to regain it when she stopped dieting. The patient is visiting the weight loss clinic/health club because she has decided to do it. She states that she will join right after the holidays, in 3 months. Which stage is the patient displaying?",
+        "options": [
+          "Precontemplation",
+          "Contemplation",
+          "Preparation",
+          "Action"
+        ],
+        "answer": "Contemplation",
+        "explanation": "This patient is planning to make the change within the next 6 months and is in the contemplation stage. These stages range from no intention to change (precontemplation), to considering a change within the next 6 months (contemplation), to making small changes (preparation), to actively engaging in strategies to change behavior (action), to maintaining a changed behavior (maintenance).",
+        "dif": "Apply (application)",
+        "obj": "Discuss risk factor modification and changing health behaviors.",
+        "top": "Evaluation",
+        "msc": "Health Promotion and Maintenance"
+      },
+      {
+        "question": "Upon completion of the assessment, the nurse finds that the patient has quit drinking and has been alcohol free for the past 2 years. Which stage best describes the nurse’s assessment finding?",
+        "options": [
+          "Contemplation",
+          "Maintenance",
+          "Preparation",
+          "Action"
+        ],
+        "answer": "Maintenance",
+        "explanation": "Because the patient has been alcohol free for 2 years, the patient is in the maintenance stage. These stages range from no intention to change (precontemplation), to considering a change within the next 6 months (contemplation), to making small changes (preparation), to actively engaging in strategies to change behavior (action), to maintaining a changed behavior (maintenance).",
+        "dif": "Apply (application)",
+        "obj": "Discuss risk factor modification and changing health behaviors.",
+        "top": "Evaluation",
+        "msc": "Health Promotion and Maintenance"
+      },
+      {
+        "question": "The patient had a colostomy placed 1 week ago. When approached by the nurse, the patient and their spouse refuse to talk about it and reject the opportunity to be taught about how to care for it. How will the nurse evaluate this couple’s stage of adjustment?",
+        "options": [
+          "Shock",
+          "Withdrawal",
+          "Acceptance",
+          "Rehabilitation"
+        ],
+        "answer": "Withdrawal",
+        "explanation": "As the patient and family recognize the reality of a change, they become anxious and may withdraw, refusing to discuss it. This is an adaptive coping mechanism that assists the patient in making the adjustment. Initially, the patient may be shocked by the change. This is followed by withdrawal, acknowledgment, acceptance, and rehabilitation (ready to adapt to the change through use of colostomy bag).",
+        "dif": "Analyze (analysis)",
+        "obj": "Describe the effect of illness on patients and families.",
+        "top": "Evaluation",
+        "msc": "Psychosocial Integrity"
+      },
+      {
+        "question": "A patient diagnosed with chronic emphysema (lung disease) states “I would be better off dead.” The nurse learns that the patient, has recently become unemployed because of oxygen dependency. The patient’s spouse will have to go to work to support the family. Which action should the nurse take?",
+        "options": [
+          "Develop a plan of care for the family.",
+          "Contact psychiatric services for a referral.",
+          "Assure the patient that things will work out.",
+          "Focus the plan of care solely on maximizing patient function."
+        ],
+        "answer": "Develop a plan of care for the family.",
+        "explanation": "Because of the effects of chronic illness, family dynamics often change. The nurse must view the whole family as a patient under stress, planning care to help the family regain its maximal level of functioning and well-being. Psychiatric services may be a part of that plan but do not represent the entire plan. Offering false assurance is never acceptable. Focusing only on the patient will not help the family adjust.",
+        "dif": "Apply (application)",
+        "obj": "Describe the effect of illness on patients and families.",
+        "top": "Implementation",
+        "msc": "Psychosocial Integrity"
+      },
+      {
+        "question": "A nurse is teaching about the transtheoretical model of change. In which order will the nurse place the progression of the stages from beginning to end? 1. Action 2. Preparation 3. Maintenance 4. Contemplation 5. Precontemplation",
+        "options": [
+          "5, 4, 2, 1, 3",
+          "2, 5, 4, 3, 1",
+          "4, 5, 3, 1, 2",
+          "1, 5, 2, 3, 4"
+        ],
+        "answer": "5, 4, 2, 1, 3",
+        "explanation": "The stages of change in the transtheoretical model of change include five stages. These stages range from no intention to change (precontemplation), considering a change within the next 6 months (contemplation), making small changes (preparation), and actively engaging in strategies to change behavior (action), to maintaining a changed behavior (maintenance stage).",
+        "dif": "Understand (comprehension)",
+        "obj": "Describe variables influencing health beliefs and practices.",
+        "top": "Teaching/Learning",
+        "msc": "Health Promotion and Maintenance"
+      },
+      {
+        "question": "Which areas should the nurse assess to determine the effects of external variables on a patient’s illness? (Select all that apply.)",
+        "options": [
+          "Patient’s perception of the illness",
+          "Patient’s coping skills",
+          "Socioeconomic status",
+          "Cultural background",
+          "Social support"
+        ],
+        "answer": [
+          "Socioeconomic status",
+          "Cultural background",
+          "Social support"
+      ],
+        "explanation": "External variables influencing a patient’s illness behavior include the visibility of symptoms, social group, cultural background, economic variables, accessibility of the health care system, and social support. Internal variables include the patient’s perceptions of symptoms and the nature of the illness, as well as the patient’s coping skills and locus of control.",
+        "dif": "Understand (comprehension)",
+        "obj": "Describe variables influencing illness behavior.",
+        "top": "Assessment",
+        "msc": "Psychosocial Integrity"
+      },
+      {
+        "question": "A nurse meets the following goals: helps a patient maintain health and helps a patient with an illness. Which factors assist the nurse in achieving these goals? (Select all that apply.)",
+        "options": [
+          "Understands the challenges of today’s health care system.",
+          "Identifies actual and potential risk factors.",
+          "Has coined the term “illness behavior.”",
+          "Minimizes the effects of illnesses.",
+          "Experiences compassion fatigue."
+        ],
+        "answer": [
+          "Understands the challenges of today’s health care system.",
+          "Identifies actual and potential risk factors.",
+          "Minimizes the effects of illnesses."
+      ],
+        "explanation": "Nurses are in a unique position to assist patients in achieving and maintaining optimal levels of health. Nurses understand the challenges of today’s health care system. Nurses can identify actual and potential risk factors that predispose a person or group to illness. Nurses who understand how patients react to illness can minimize the effects of illness and assist patients and their families in maintaining or returning to the highest level of functioning. Nurses did not coin the phrase “illness behavior.” While nurses can experience compassion fatigue, it does not help in meeting patient goals.",
+        "dif": "Understand (comprehension)",
+        "obj": "Discuss a nurse’s role in health and illness.",
+        "top": "Implementation",
+        "msc": "Health Promotion and Maintenance"
+      }
+    ],
+    "chapter11": [
+      {
+        "question": "When caring for a middle-aged adult exhibiting maladaptive coping skills, the nurse is trying to determine the cause of the patient’s behavior. Which information from a growth and development perspective should the nurse consider when planning care?",
+        "options": [
+          "Individuals have uniform patterns of growth and development.",
+          "Culture usually has no effect on predictable patterns of growth and development.",
+          "Health is promoted based on how many developmental failures a patient experiences.",
+          "When individuals experience repeated developmental failures, inadequacies sometimes result."
+        ],
+        "answer": "When individuals experience repeated developmental failures, inadequacies sometimes result.",
+        "explanation": "If individuals have repeated development failures, inadequacies sometimes result should be considered. Developmental failures could manifest with ineffective coping skills. However, when an individual experiences successes, health is promoted. Patients have unique patterns of growth and development that are not uniform. Nurses must consider the influence of culture and context on growth and development.",
+        "dif": "Understand (comprehension)",
+        "obj": "Discuss factors influencing growth and development.",
+        "top": "Planning",
+        "msc": "Health Promotion and Maintenance"
+      },
+      {
+        "question": "A nurse is measuring an infant’s head circumference and height. Which area is the nurse assessing?",
+        "options": [
+          "Moral development",
+          "Cognitive development",
+          "Biophysical development",
+          "Psychosocial development"
+        ],
+        "answer": "Biophysical development",
+        "explanation": "Biophysical development is how our physical bodies grow and change. Moral development is the difference between right and wrong. Cognitive development comprises changes in intelligence, use of language, and development of thinking. Psychosocial development consists of variations in emotions and relationships with others.",
+        "dif": "Apply (application)",
+        "obj": "Describe biophysical developmental theories.",
+        "top": "Assessment",
+        "msc": "Health Promotion and Maintenance"
+      },
+      {
+        "question": "Which question will be most appropriate for a nurse to ask when assessing an adult patient for growth and developmental delays?",
+        "options": [
+          "“How many times per week do you exercise?”",
+          "“Are you able to stand on one foot for 5 seconds?”",
+          "“Would you please describe your usual activities during the day?”",
+          "“How many hours a day do you spend watching television or sitting in front of a computer?”"
+        ],
+        "answer": "“Would you please describe your usual activities during the day?”",
+        "explanation": "Asking the patient to describe usual daily activities will provide the nurse with useful information about the patient’s current patterns. Understanding normal growth and development helps nurses predict, prevent, and detect deviations from patients’ own expected patterns. How many hours are spent watching television or in front of a computer and how many times the patient exercises in a week would not provide the nurse with as much information about the patient’s expected patterns when stated patterns are compared with expected patterns for the patient’s age-group to detect delays. The question about standing on one foot is for a child, not an adult.",
+        "dif": "Analyze (analysis)",
+        "obj": "Discuss nursing implications for the application of developmental principles to patient care.",
+        "top": "Assessment",
+        "msc": "Health Promotion and Maintenance"
+      },
+      {
+        "question": "A nurse is using the proximodistal pattern to assess an infant’s growth and development as normal. Which assessment finding will the nurse determine as normal?",
+        "options": [
+          "Bangs objects before turns.",
+          "Lifts head before grasps.",
+          "Walks before crawls.",
+          "Laughs before coos."
+        ],
+        "answer": "Lifts head before grasps.",
+        "explanation": "Lifting the head before grasping is a normal finding according to proximodistal growth. The proximodistal growth pattern starts at the center of the body and moves toward the extremities (e.g., organ systems in the trunk of the body develop before arms and legs). The infant should turn before banging objects and crawl before walking according to the proximodistal pattern of growth. The infant should coo before laughing, but this is not an example of proximodistal; this is an example of language development.",
+        "dif": "Analyze (analysis)",
+        "obj": "Describe biophysical developmental theories.",
+        "top": "Assessment",
+        "msc": "Health Promotion and Maintenance"
+      },
+      {
+        "question": "A nurse is assessing an 18-month-old toddler. The nurse distinguishes normal from abnormal findings by remembering Gesell’s theory of development. Which information will the nurse consider?",
+        "options": [
+          "Growth in humans is determined solely by heredity.",
+          "Environmental influence does not influence development.",
+          "The cephalocaudal pattern describes the sequence in which growth is fastest at the top.",
+          "Gene activity influences development but does not affect the sequence of development."
+        ],
+        "answer": "The cephalocaudal pattern describes the sequence in which growth is fastest at the top.",
+        "explanation": "Gesell’s theory of development states that the cephalocaudal pattern describes the sequence in which growth is fastest at the top (e.g., head/brain develop faster than arm and leg coordination). Growth in humans is determined by heredity, genes, and environment. Environment does influence development. Gesell’s theory states that genes direct the sequence of development, but environmental factors also influence development, resulting in developmental changes.",
+        "dif": "Understand (comprehension)",
+        "obj": "Describe biophysical developmental theories.",
+        "top": "Assessment",
+        "msc": "Health Promotion and Maintenance"
+      },
+      {
+        "question": "A nurse is working with a patient who wants needs to be met and is impatient and demanding when these needs are not met immediately. How should the nurse interpret this finding according to Freud?",
+        "options": [
+          "The id is functioning.",
+          "The ego is functioning.",
+          "The superego is functioning.",
+          "The Oedipus complex is functioning."
+        ],
+        "answer": "The id is functioning.",
+        "explanation": "The id is functioning. The id (i.e., basic instinctual impulses driven to achieve pleasure) is the most primitive part of the personality and originates in the infant. The infant, in this case the patient, cannot tolerate delay and must have needs met immediately. The ego represents the reality component, mediating conflicts between the environment and the forces of the id. The ego helps people judge reality accurately, regulate impulses, and make good decisions. The third component, the superego, performs regulating, restraining, and prohibiting actions. Often referred to as the conscience, the superego is influenced by the standards of outside social forces (e.g., parent or teacher). The child fantasizes about the parent of the opposite sex as his or her first love interest, known as the Oedipus or Electra complex. By the end of this stage, the child attempts to reduce this conflict by identifying with the parent of the same sex as a way to win recognition and acceptance.",
+        "dif": "Analyze (analysis)",
+        "obj": "Describe and compare the psychoanalytical/psychosocial theories proposed by Freud and Erikson.",
+        "top": "Evaluation",
+        "msc": "Psychosocial Integrity"
+      },
+      {
+        "question": "The nurse is teaching a young-adult couple about promoting the health and psychosocial development of their 8-year-old child. Which information from the parent indicates a correct understanding of the teaching?",
+        "options": [
+          "“We will provide consistent, devoted relationships to meet needs.”",
+          "“We will limit choices and provide punishment for mistakes.”",
+          "“We will provide proper support for learning new skills.”",
+          "“We will instill a strong identity of who our child is.”"
+        ],
+        "answer": "“We will provide proper support for learning new skills.”",
+        "explanation": "An 8-year-old-child would be in the industry versus inferiority stage of development. During this stage, the child needs to be praised (proper support) for accomplishments such as learning new skills. Developing a strong identity is part of the identity versus role confusion stage, usually occurring during puberty. During the autonomy versus shame and doubt stage, limiting choices and harsh punishment lead to feelings of shame and doubt. Providing consistent, devoted relationship to meet needs is usually a part of the trust versus mistrust stage.",
+        "dif": "Analyze (analysis)",
+        "obj": "Describe and compare the psychoanalytical/psychosocial theories proposed by Freud and Erikson.",
+        "top": "Teaching/Learning",
+        "msc": "Health Promotion and Maintenance"
+      },
+      {
+        "question": "A nurse is using Jean Piaget’s developmental theory to focus on cognitive development. Which area will the nurse assess in this patient?",
+        "options": [
+          "Latency",
+          "Formal operations",
+          "Intimacy versus isolation",
+          "The postconventional level"
+        ],
+        "answer": "Formal operations",
+        "explanation": "Jean Piaget’s theory includes four stages in sequential order: sensorimotor, preoperational, concrete operations, and formal operations. Intimacy versus isolation is part of Erik Erikson’s psychosocial theory of development. Latency is stage 4 of Freud’s five-stage psychosexual theory of development. The postconventional level of reasoning is part of Kohlberg’s theory of moral development.",
+        "dif": "Understand (comprehension)",
+        "obj": "Describe Piaget’s theory of cognitive development.",
+        "top": "Assessment",
+        "msc": "Health Promotion and Maintenance"
+      },
+      {
+        "question": "A nurse is assessing a 17-year-old adolescent’s cognitive development. Which behavior indicates the adolescent has reached formal operations?",
+        "options": [
+          "Uses play to understand surroundings.",
+          "Discusses the topic of justice in society.",
+          "Hits other students to deal with environmental change.",
+          "Questions where the ice is hiding when ice has melted in a drink."
+        ],
+        "answer": "Discusses the topic of justice in society.",
+        "explanation": "Discussing the topic of justice demonstrates that the adolescent is concerned about issues that affect others besides self. In the formal operations period, as adolescents mature, their thinking moves to abstract and theoretical subjects. They have the capacity to reason with respect to possibilities. Hitting would be a common schema during the sensorimotor stage of development. Using play to learn about the environment is indicative of the preoperational stage. During the concrete operations stage (ages 6 to 12 years), children are able to coordinate two concrete perspectives in social and scientific thinking, such as understanding the difference between “hiding” and “melting.”",
+        "dif": "Analyze (analysis)",
+        "obj": "Describe Piaget’s theory of cognitive development.",
+        "top": "Evaluation",
+        "msc": "Health Promotion and Maintenance"
+      },
+      {
+        "question": "A nurse is caring for a 4-year-old patient. Which object will the nurse allow the child to play with safely to foster cognitive development?",
+        "options": [
+          "The pump administering intravenous fluids",
+          "A book to read alone in a quiet place",
+          "The blood pressure cuff",
+          "A baseball bat"
+        ],
+        "answer": "The blood pressure cuff",
+        "explanation": "Children should be allowed to play with any equipment that is safe, like a blood pressure cuff. A 4-year-old child would be in the preoperational period of cognitive development. Children at this stage are still egocentric. Play is very important to foster cognitive development. The IV pump and bat are not safe pieces of equipment for a 4-year-old child to play with. A 4-year-old child is of preschool age and more than likely is not able to read yet. Also, the book does not allow for any human interaction and communication if he or she reads alone.",
+        "dif": "Analyze (analysis)",
+        "obj": "Describe Piaget’s theory of cognitive development.",
+        "top": "Planning",
+        "msc": "Health Promotion and Maintenance"
+      },
+      {
+        "question": "A patient follows all the instructions a nurse provides because the patient wants to be perceived as a “good” patient. How should the nurse interpret this information according to moral development?",
+        "options": [
+          "The patient is in postformal thought reasoning.",
+          "The patient is in postconventional reasoning.",
+          "The patient is in preconventional reasoning.",
+          "The patient is in conventional reasoning."
+        ],
+        "answer": "The patient is in conventional reasoning.",
+        "explanation": "The patient is in conventional reasoning, specifically stage 3: Good Boy-Nice Girl Orientation. The patient wants to win approval from the nurse by “being good.” Developmentalists proposed a fifth stage of cognitive (not moral) development termed postformal thought. Within this stage, adults demonstrate the ability to recognize that answers vary from situation to situation and that solutions need to be sensible. The person finds a balance between basic human rights and obligations and societal rules and regulations in the level of postconventional reasoning. Individuals move away from moral decisions based on authority or conformity to groups to define their own moral values and principles. Preconventional reasoning is the premoral level, in which there is limited cognitive thinking and the individual’s thinking is primarily egocentric. At this stage, thinking is mostly based on likes and pleasures.",
+        "dif": "Apply (application)",
+        "obj": "Apply developmental theories when planning interventions in the care of patients throughout the life span.",
+        "top": "Assessment",
+        "msc": "Psychosocial Integrity"
+      },
+      {
+        "question": "An 18-month-old patient is brought into the clinic for evaluation because the parent is concerned because the child hits siblings and says only “No” when communicating verbally. Which recommendation by the nurse will be best for this situation?",
+        "options": [
+          "Assure the mother that the child is developmentally within specified norms.",
+          "Encourage the mother to seek psychological counseling for the child.",
+          "Consult the social worker because the child is hitting other children.",
+          "Remove all toys from the child’s room until this behavior ceases."
+        ],
+        "answer": "Assure the mother that the child is developmentally within specified norms.",
+        "explanation": "Assure the mother that the child is displaying normal behavior. At 18 months, the child is in the sensorimotor period of development. Piaget describes hitting, looking, grasping, and kicking as normal schemas to deal with the environment. The social worker does not need to be consulted in this case nor is psychological counseling warranted, because the child is exhibiting normal behaviors. Play is an important part of all children’s development. Removing toys and the opportunity to play with them may actually hinder the child’s development.",
+        "dif": "Analyze (analysis)",
+        "obj": "Discuss nursing implications for the application of developmental principles to patient care.",
+        "top": "Implementation",
+        "msc": "Health Promotion and Maintenance"
+      },
+      {
+        "question": "A formerly independent older adult becomes severely withdrawn upon admission to a nursing home. Which action should the nurse take first?",
+        "options": [
+          "Offer a reward to the patient for participation in all events.",
+          "Encourage the patient to eat meals in the dining room with others.",
+          "Allow the patient to incorporate personal belongings into the room.",
+          "Advise the patient of the importance of attending mandatory activities."
+        ],
+        "answer": "Allow the patient to incorporate personal belongings into the room.",
+        "explanation": "The nurse should first allow the patient to actively participate in an independent activity (the patient was formerly independent), such as preparing the room with personal belongings. Erikson’s theory proposes that the older adult faces integrity versus despair. Offering a reward does not address the need for continued independence. Encouraging eating in the dining room would be a step after fixing the room since it does not address independence, and the question is asking for the first action. Advising the patient to attend all mandatory activities as the first intervention does not allow for the patient’s independence. Some activities may be mandatory, but by first allowing the patient to decorate room, the nurse is fostering independence and is helping the patient feel welcome and more at home, fostering integrity.",
+        "dif": "Apply (application)",
+        "obj": "Apply developmental theories when planning interventions in the care of patients throughout the life span.",
+        "top": "Implementation",
+        "msc": "Management of Care"
+      },
+      {
+        "question": "The nurse is caring for a 14-year-old patient in the hospital. Which goal will be priority?",
+        "options": [
+          "Maintain industry.",
+          "Maintain identity.",
+          "Maintain intimacy.",
+          "Maintain initiative."
+        ],
+        "answer": "Maintain identity.",
+        "explanation": "According to Erikson, a 14-year-old adolescent is developing an identity versus role confusion. Maintaining initiative is priority for a 3- to 6-year old. Maintaining industry is priority for a 6- to 11-year old. Maintaining intimacy is for young adults.",
+        "dif": "Apply (application)",
+        "obj": "Discuss nursing implications for the application of developmental principles to patient care.",
+        "top": "Planning",
+        "msc": "Health Promotion and Maintenance"
+      },
+      {
+        "question": "The nurse is teaching the parents of a 3-year-old child who is at risk for developmental delays. Which instruction will the nurse include in the teaching plan?",
+        "options": [
+          "Insist that your child discuss various points of view.",
+          "Encourage play as your child is exploring the surroundings.",
+          "Discuss world events with your child to foster language development.",
+          "Actively encourage your child to read lengthy books to foster reading abilities."
+        ],
+        "answer": "Encourage play as your child is exploring the surroundings.",
+        "explanation": "A 3-year-old child is going to use play to learn and discover the surrounding environment. Children at this age are egocentric and often are unable to see the world from any perspective other than their own. Very young children are not able to understand and comment on world events because their thinking has not advanced to abstract reasoning yet. A 3-year-old child is likely unable to read; lengthy is not appropriate.",
+        "dif": "Apply (application)",
+        "obj": "Apply developmental theories when planning interventions in the care of patients throughout the life span.",
+        "top": "Teaching/Learning",
+        "msc": "Health Promotion and Maintenance"
+      },
+      {
+        "question": "A nurse is caring for a young adult after surgery. Which action by the nurse will be priority?",
+        "options": [
+          "Allow involvement of peers.",
+          "Allow involvement of partner.",
+          "Allow involvement of volunteer activities.",
+          "Allow involvement of consistent schedule."
+        ],
+        "answer": "Allow involvement of partner.",
+        "explanation": "Nurses must understand that during hospitalization, a young adult’s need for intimacy remains present; thus young adults benefit from the support of their partner or significant other during this time. Involvement of peers is priority for adolescents. Volunteer activities are priority for middle-aged adults. Consistent schedule is priority for infants and toddlers.",
+        "dif": "Apply (application)",
+        "obj": "Discuss nursing implications for the application of developmental principles to patient care.",
+        "top": "Implementation",
+        "msc": "Health Promotion and Maintenance"
+      },
+      {
+        "question": "A nurse takes the history of a middle-aged patient in a health clinic. Which information indicates the patient has achieved generativity?",
+        "options": [
+          "Married for 30 years.",
+          "Teaches preschoolers.",
+          "Has no regrets with life choices.",
+          "Cares for aging parents after work."
+        ],
+        "answer": "Teaches preschoolers.",
+        "explanation": "Teaching preschoolers indicates generativity. Middle-aged adults achieve success (generativity) in this stage by contributing to future generations through parenthood, teaching, mentoring, and community involvement. Married for 30 years indicates achievement of intimacy. Having no regrets is associated with ego integrity. Caring for aging parents is admirable but it does not indicate development of the next generation (generativity).",
+        "dif": "Apply (application)",
+        "obj": "Discuss nursing implications for the application of developmental principles to patient care.",
+        "top": "Assessment",
+        "msc": "Health Promotion and Maintenance"
+      },
+      {
+        "question": "Which action should the nurse take when teaching a 5-year-old patient about a scheduled surgery?",
+        "options": [
+          "Do not discuss the procedure with the child to decrease anxiety.",
+          "Let the child know the surgery will be at 9:00 AM in the morning.",
+          "Insist that the parents wait outside the room to ensure privacy of the child.",
+          "Allow the child to touch and hold medical equipment such as thermometers."
+        ],
+        "answer": "Allow the child to touch and hold medical equipment such as thermometers.",
+        "explanation": "Nursing interventions during the preoperational period (ages 2 to 7 years) should recognize the use of play (such as handling equipment) to help the child understand the events taking place. The nurse should talk to the child about the procedure in terms the child can understand. Children at this stage have difficulty conceptualizing time; telling the child surgery is at 9:00 AM in the morning is inappropriate. Parents should be allowed in the room.",
+        "dif": "Apply (application)",
+        "obj": "Apply developmental theories when planning interventions in the care of patients throughout the life span.",
+        "top": "Teaching/Learning",
+        "msc": "Health Promotion and Maintenance"
+      },
+      {
+        "question": "A nurse works on a pediatric unit and is using a psychosocial developmental approach to child care. In which order from the first to the last will the nurse place the developmental stages?\n1. Initiative versus guilt\n2. Trust versus mistrust\n3. Industry versus inferiority\n4. Identity versus role confusion\n5. Autonomy versus shame and doubt",
+        "options": [
+          "2, 5, 3, 1, 4",
+          "2, 1, 3, 5, 4",
+          "2, 3, 1, 5, 4",
+          "2, 5, 1, 3, 4"
+        ],
+        "answer": "2, 5, 1, 3, 4",
+        "explanation": "Erikson uses a psychosocial approach to development. The stages are as follows: trust versus mistrust, autonomy versus shame and doubt, initiative versus guilt, industry versus inferiority, and identity versus role confusion.",
+        "dif": "Understand (comprehension)",
+        "obj": "Describe and compare the psychoanalytical/psychosocial theories proposed by Freud and Erikson.",
+        "top": "Caring",
+        "msc": "Health Promotion and Maintenance"
+      },
+      {
+        "question": "A nurse is developing a plan of care concerning growth and development for a hospitalized adolescent. What interventions should the nurse implement? (Select all that apply.)",
+        "options": [
+          "Apply developmental theories when making observations of the adolescent’s patterns of growth and development.",
+          "Compare the adolescent’s assessment findings versus normal findings.",
+          "Recognize one’s own (the nurse’s) moral developmental level.",
+          "Focus on one developmental theory for consistency.",
+          "Apply a unidimensional life span perspective."
+        ],
+        "answer": [
+          "Apply developmental theories when making observations of the adolescent’s patterns of growth and development.",
+          "Compare the adolescent’s assessment findings versus normal findings.",
+          "Recognize one’s own (the nurse’s) moral developmental level."
+        ],
+        "explanation": "Today’s nurses need to be knowledgeable about several theoretical perspectives when working with patients. These theories form the basis for meaningful observation of an individual’s pattern of growth and development. They provide important guidelines for nurses to recognize deviations from the norm. Recognizing your own moral developmental level is essential in separating your own beliefs from those of others when helping patients with their moral decision-making process. No one theory successfully describes all the intricacies of human growth and development. Growth and development, as supported by a life span perspective, is multidimensional, not unidimensional.",
+        "dif": "Apply (application)",
+        "obj": "Apply developmental theories when planning interventions in the care of patients throughout the life span.",
+        "top": "Planning",
+        "msc": "Health Promotion and Maintenance"
+      },
+      {
+        "question": "A nurse is assessing temperaments of children. Which terms should the nurse use to describe findings? (Select all that apply.)",
+        "options": [
+          "The easy child",
+          "The defiant child",
+          "The difficult child",
+          "The slow-to-warm up child",
+          "The momma’s boy or daddy’s girl"
+        ],
+        "answer": [
+          "The easy child",
+          "The difficult child",
+          "The slow-to-warm up child"
+        ],
+        "explanation": "Psychiatrists identified three basic classes of temperament: the easy child, the difficult child, and the slow-to-warm up child. There is no momma’s boy or daddy’s girl or defiant child.",
+        "dif": "Understand (comprehension)",
+        "obj": "Apply developmental theories when planning interventions in the care of patients throughout the life span.",
+        "top": "Assessment",
+        "msc": "Health Promotion and Maintenance"
+      }
+    ],
     "chapter22": [
         {
             "question": "Four patients in labor all request epidural analgesia to manage their pain at the same time. Which ethical principle is most compromised when only one nurse anesthetist is on call?",
@@ -4299,6 +5308,516 @@
             "top": "Assessment",
             "msc": "Physiological Adaptation"
           }
+    ],
+    "chapter43": [
+      {
+        "question": "The nurse is caring for a young-adult patient on the medical-surgical unit. When doing midnight checks, the nurse observes the patient awake, putting a puzzle together. Which information will the nurse consider to best explain this finding?",
+        "options": [
+          "The patient misses family and is lonely.",
+          "The patient was waiting to talk with the nurse.",
+          "The patient has been kept up with the noise on the unit.",
+          "The patient’s sleep-wake cycle preference is late evening."
+        ],
+        "answer": "The patient’s sleep-wake cycle preference is late evening.",
+        "explanation": "This patient is awake and alert enough to do a puzzle. The individual’s sleep-wake preference is probably late evening. All persons have biological clocks that synchronize their sleep-wake cycle. This explains why some individuals fall asleep in the early evening, whereas others go to bed at midnight or early morning. Waiting to talk with the nurse, being lonely, and noise on the unit may contribute to lack of sleep, but the best explanation for the patient being awake is the biological clock.",
+        "dif": "Analyze (analysis)",
+        "obj": "Explain the effect the 24-hour sleep-wake cycle has on biological function.",
+        "top": "Evaluation",
+        "msc": "Basic Care and Comfort"
+      },
+      {
+        "question": "The nurse is providing an educational session on sleep regulation for new nurses in the Sleep Disorder Treatment Center. Which statement by the nurses will best indicate that the teaching is effective?",
+        "options": [
+          "“If the patient has a disease process in the central nervous system, it can influence the functions of sleep.”",
+          "“If the patient has a disease process in the cranial nerves, it can influence the functions of sleep.”",
+          "“If the patient has an interruption in the urinary pathways, it can influence the functions of sleep.”",
+          "“If the patient has an interruption in the spinal reflexes, it can influence the functions of sleep.”"
+        ],
+        "answer": "“If the patient has a disease process in the central nervous system, it can influence the functions of sleep.”",
+        "explanation": "Sleep involves a sequence of physiological states maintained by the central nervous system. It is associated with changes in the peripheral nervous, endocrine, cardiovascular, respiratory, and muscular systems. A disease process associated with the cranial nerves, urinary pathway, or spinal reflexes may influence a person’s ability to sleep, but the best answer is the central nervous system.",
+        "dif": "Analyze (analysis)",
+        "obj": "Discuss mechanisms that regulate sleep.",
+        "top": "Teaching/Learning",
+        "msc": "Physiological Adaptation"
+      },
+      {
+        "question": "The nurse is caring for a patient who reports having trouble sleeping. Which action will the nurse take?",
+        "options": [
+          "Suggest snug-fitting nightwear.",
+          "Provide a favorite beverage.",
+          "Encourage deep breathing.",
+          "Walk with the patient."
+        ],
+        "answer": "Encourage deep breathing.",
+        "explanation": "Relaxation exercises such as slow, deep breathing for 1 or 2 minutes relieve tension and prepare the body for rest. Instruct patients to wear loose-fitting nightwear. Walking and drinking a favorite beverage would not necessarily encourage sleep.",
+        "dif": "Apply (application)",
+        "obj": "Discuss mechanisms that regulate sleep.",
+        "top": "Implementation",
+        "msc": "Basic Care and Comfort"
+      },
+      {
+        "question": "The nurse is caring for a patient in the sleep lab. Which assessment finding indicates to the nurse that the patient is in stage 4 NREM?",
+        "options": [
+          "The patient awakens easily.",
+          "The patient’s eyes rapidly move.",
+          "The patient is difficult to awaken.",
+          "The patient’s vital signs are elevated."
+        ],
+        "answer": "The patient is difficult to awaken.",
+        "explanation": "The patient is difficult to arouse, vital signs are significantly lower, and this stage lasts about 15 to 30 minutes. Stage 4 NREM is the deepest stage of sleep. Lighter sleep is seen in stages 1 and 2, where the patient awakens easily. REM sleep is characterized by rapid eye movement.",
+        "dif": "Apply (application)",
+        "obj": "Describe the stages of a normal sleep cycle.",
+        "top": "Assessment",
+        "msc": "Basic Care and Comfort"
+      },
+      {
+        "question": "A nurse is teaching the staff about the sleep cycle. Which sequence will the nurse include in the teaching session?",
+        "options": [
+          "NREM Stage 1, 2, 3, 4, REM",
+          "NREM Stage 1, 2, 3, 4, 3, 2, 1, REM",
+          "NREM Stage 1, 2, 3, 4, REM, 4, 3, 2 REM",
+          "NREM Stage 1, 2, 3, 4, 3, 2, REM"
+        ],
+        "answer": "NREM Stage 1, 2, 3, 4, 3, 2, REM",
+        "explanation": "The cyclical pattern usually progresses from stage 1 through stage 4 of NREM, followed by a reversal from stages 4 to 3 to 2, ending with a period of REM sleep. The others are incorrect sequences.",
+        "dif": "Understand (comprehension)",
+        "obj": "Describe the stages of a normal sleep cycle.",
+        "top": "Teaching/Learning",
+        "msc": "Physiological Adaptation"
+      },
+      {
+        "question": "Which nursing observation of the patient in intensive care indicates the patient is sleeping comfortably during NREM sleep?",
+        "options": [
+          "Eyes closed, lying quietly, respirations 12, heart rate 60",
+          "Eyes closed, tossing in bed, respirations 18, heart rate 80",
+          "Eyes closed, mumbling to self, respirations 16, heart rate 68",
+          "Eyes closed, lying supine in bed, respirations 22, heart rate 66"
+        ],
+        "answer": "Eyes closed, lying quietly, respirations 12, heart rate 60",
+        "explanation": "During NREM sleep, biological functions slow. During sleep, the heart rate decreases to 60 beats/min or less. The patient experiences decreased respirations, blood pressure, and muscle tone. Heart rates above 60 are too high and respirations of 22 are too high to indicate comfortable NREM sleep.",
+        "dif": "Analyze (analysis)",
+        "obj": "Explain the functions of sleep.",
+        "top": "Assessment",
+        "msc": "Basic Care and Comfort"
+      },
+      {
+        "question": "The nurse is teaching a new mother about the sleep requirements of a neonate. Which comment by the patient indicates a correct understanding of the teaching?",
+        "options": [
+          "“I can’t wait to get the baby home to play with the brothers and sisters.”",
+          "“I will ask my mom to come after the first week, when the baby is more alert.”",
+          "“I can get the baby on a sleeping schedule the first week while my mom is here.”",
+          "“I won’t be able to nap during the day because the baby will be awake.”"
+        ],
+        "answer": "“I will ask my mom to come after the first week, when the baby is more alert.”",
+        "explanation": "The patient indicates an understanding when asking the mother to come after the first week. The neonate up to the age of 3 months averages about 16 hours of sleep a day, sleeping almost constantly during the first week. The baby will sleep rather than play. The baby will not be on a sleeping schedule the first week home. The mother will be able to nap since the baby sleeps 16 hours a day.",
+        "dif": "Analyze (analysis)",
+        "obj": "Compare and contrast the sleep requirements of different age-groups.",
+        "top": "Teaching/Learning",
+        "msc": "Health Promotion and Maintenance"
+      },
+      {
+        "question": "The nurse is discussing lack of sleep with a middle-aged adult. Which area should the nurse most likely assess to determine a possible cause of the lack of sleep?",
+        "options": [
+          "Anxiety",
+          "Loud teenagers",
+          "Caring for pets",
+          "Late night television"
+        ],
+        "answer": "Anxiety",
+        "explanation": "During middle adulthood, the total time spent sleeping at night begins to decline. Anxiety, depression, and certain physical illnesses can affect sleep, and women can experience menopausal symptoms. Insomnia is common because of the changes and stresses associated with middle age. Teenagers, caring for pets, and late-night television can influence the amount of sleep; however, these are not the most common causes of insomnia in this age-group.",
+        "dif": "Apply (application)",
+        "obj": "Compare and contrast the sleep requirements of different age-groups.",
+        "top": "Assessment",
+        "msc": "Basic Care and Comfort"
+      },
+      {
+        "question": "A parent is discussing the sleep needs of a preschooler with the nurse. Which information will the nurse share with the parent?",
+        "options": [
+          "“Most preschoolers sleep soundly all night long.”",
+          "“It is important that the 5 year old get a nap every day.”",
+          "“On average, the preschooler needs to sleep 10 hours a night.”",
+          "“Preschoolers may have trouble settling down after a busy day.”"
+        ],
+        "answer": "“Preschoolers may have trouble settling down after a busy day.”",
+        "explanation": "The preschooler usually has difficulty relaxing or settling down after long, active days. By the age of 5, naps are rare for children, except those for whom a siesta is a custom. Preschoolers frequently awaken during the night. On average, a preschooler needs about 12 hours of sleep.",
+        "dif": "Understand (comprehension)",
+        "obj": "Compare and contrast the sleep requirements of different age-groups.",
+        "top": "Teaching/Learning",
+        "msc": "Health Promotion and Maintenance"
+      },
+      {
+        "question": "The nurse is having a conversation with an adolescent regarding the need for sleep. The adolescent states that it is common to stay up with friends several nights a week. Which action should the nurse take next?",
+        "options": [
+          "Talk with the adolescent’s parent about staying up with friends and the need for sleep.",
+          "Discuss with the adolescent sleep needs and the effects of excessive daytime sleepiness.",
+          "Refer the adolescent for counseling about alcohol abuse problems.",
+          "Take no action for this normal occurrence."
+        ],
+        "answer": "Discuss with the adolescent sleep needs and the effects of excessive daytime sleepiness.",
+        "explanation": "Discussion regarding adolescent sleep needs should first occur with the adolescent. Although it may be common for this adolescent to want to visit with friends and experience activities that go late into the night, these activities can and do impact the hours of sleep and the physical needs of the adolescent, no matter the reason for the late nights, and they do need to be addressed. The nurse will address the adolescent, not the parents. Addressing alcohol abuse problems is not the next step but may be required later. While staying up late may be a normal occurrence for this adolescent, action is required.",
+        "dif": "Apply (application)",
+        "obj": "Compare and contrast the sleep requirements of different age-groups.",
+        "top": "Implementation",
+        "msc": "Health Promotion and Maintenance"
+      },
+      {
+        "question": "The nurse is completing an assessment on an older-adult patient who is having difficulty falling asleep. Which condition will the nurse further assess for in this patient?",
+        "options": [
+          "Depression",
+          "Mild fatigue",
+          "Hypertension",
+          "Hypothyroidism"
+        ],
+        "answer": "Depression",
+        "explanation": "Older adults and other individuals who experience depressive mood problems experience delays in falling asleep, earlier appearance of REM sleep, frequent awakening, feelings of sleeping poorly, and daytime sleepiness. A person who is moderately fatigued usually achieves restful sleep, especially if the fatigue is the result of enjoyable work or exercise. Hypertension often causes early-morning awakening and fatigue. Alcohol speeds the onset of sleep. Hypothyroidism decreases stage 4 sleep.",
+        "dif": "Apply (application)",
+        "obj": "Identify factors that normally promote and disrupt sleep.",
+        "top": "Assessment",
+        "msc": "Basic Care and Comfort"
+      },
+      {
+        "question": "The nurse is caring for an adolescent post-appendectomy who is reporting difficulty falling asleep. Which intervention will be most appropriate?",
+        "options": [
+          "Close the door to decrease noise from unit activities.",
+          "Adjust temperature in the patient’s room to 21° C (70° F).",
+          "Ensure that the night-light in the patient’s room is working.",
+          "Encourage the discontinuation of a soda and chocolate as a nightly snack."
+        ],
+        "answer": "Encourage the discontinuation of a soda and chocolate as a nightly snack.",
+        "explanation": "Discontinuing the soda and chocolate nightly snack will be most beneficial for this patient since it has two factors that will cause difficulty falling asleep. Coffee, tea, colas, and chocolate act as stimulants, causing a person to stay awake or to awaken throughout the night. Personal preference influences the temperature of the room, as well as the lighting of the room. Noise can be a factor in the unit and can awaken the patient, but caffeine can make it difficult to fall asleep.",
+        "dif": "Analyze (analysis)",
+        "obj": "Identify factors that normally promote and disrupt sleep.",
+        "top": "Implementation",
+        "msc": "Basic Care and Comfort"
+      },
+      {
+        "question": "A patient is diagnosed with obstructive sleep apnea. Which assessment is the priority?",
+        "options": [
+          "Gastrointestinal function",
+          "Neurological function",
+          "Respiratory status",
+          "Circulatory status"
+        ],
+        "answer": "Respiratory status",
+        "explanation": "In obstructive sleep apnea, the upper airway becomes partially or completely blocked, diminishing nasal airflow or stopping it. The person still attempts to breathe because the chest and abdominal movement continue, which results in loud snoring and snorting sounds. According to the ABCs of prioritizing care, airway and respiratory status takes priority over gastrointestinal, circulatory, and neurological functioning.",
+        "dif": "Apply (application)",
+        "obj": "Discuss the characteristics of common sleep disorders.",
+        "top": "Assessment",
+        "msc": "Management of Care"
+      },
+      {
+        "question": "The patient has just been diagnosed with narcolepsy. The nurse teaches the patient about management of the condition. Which information from the patient will cause the nurse to intervene?",
+        "options": [
+          "Takes antidepressant medications.",
+          "Naps shorter than 20 minutes.",
+          "Sleeps in hot, stuffy room.",
+          "Chews gum regularly."
+        ],
+        "answer": "Sleeps in hot, stuffy room.",
+        "explanation": "The nurse will intervene about sitting in a hot, stuffy room as this will make the narcolepsy worse so this needs to be corrected. Patients with narcolepsy need to avoid factors that increase drowsiness (e.g., alcohol, heavy meals, exhausting activities, long-distance driving, and long periods of sitting in hot, stuffy rooms). Patients are treated with antidepressants, and management techniques involve scheduling naps no longer than 20 minutes and chewing gum. Additional management techniques include exercise, light high-protein meals, deep breathing, and taking vitamins.",
+        "dif": "Apply (application)",
+        "obj": "Discuss the characteristics of common sleep disorders.",
+        "top": "Teaching/Learning",
+        "msc": "Physiological Adaptation"
+      },
+      {
+        "question": "The nurse is caring for a patient who has been in holding in the emergency department for 24 hours. The nurse is concerned about the patient’s experiencing sleep deprivation. Which action will be best for the nurse to take?",
+        "options": [
+          "Expedite the process of obtaining a medical-surgical room for the patient.",
+          "Pull the curtains shut, dim the lights, and decrease the number of visitors.",
+          "Obtain an order for a hypnotic medication to help the patient sleep.",
+          "Ask everyone in the unit to try to be quiet so the patient can sleep."
+        ],
+        "answer": "Expedite the process of obtaining a medical-surgical room for the patient.",
+        "explanation": "The most effective treatment for sleep deprivation is elimination or correction of factors that disrupt the sleep pattern. Obtaining a private room in the medical-surgical unit for the patient will help with decreasing stimuli and promoting more rest than an individual can obtain in an emergency department even with the interventions mentioned.",
+        "dif": "Analyze (analysis)",
+        "obj": "Discuss characteristics of common sleep disorders.",
+        "top": "Implementation",
+        "msc": "Management of Care"
+      },
+      {
+        "question": "The nurse is completing a sleep assessment on a patient. Which tool will the nurse use to complete the assessment?",
+        "options": [
+          "Visual analog scale",
+          "Cataplexy scale",
+          "Polysomnogram",
+          "RAS scale"
+        ],
+        "answer": "Visual analog scale",
+        "explanation": "The visual analog scale is utilized for assessing sleep quality. Cataplexy, or sudden muscle weakness during intense emotions such as anger, sadness, or laughter, occurs at any time during the day; there is no cataplexy scale for sleep assessment. A polysomnogram involves the use of EEG, EMG, and EOG to monitor stages of sleep and wakefulness during nighttime sleep; this is used in a sleep laboratory study. Researchers believe that the ascending reticular activating system (RAS) located in the upper brainstem contains special cells that maintain alertness and wakefulness; however, there is no assessment tool called the RAS scale.",
+        "dif": "Understand (comprehension)",
+        "obj": "Conduct a sleep history for a patient.",
+        "top": "Assessment",
+        "msc": "Basic Care and Comfort"
+      },
+      {
+        "question": "The nurse is beginning a sleep assessment on a patient. Which question will be most appropriate for the nurse to ask initially?",
+        "options": [
+          "“What is going on?”",
+          "“How are you sleeping?”",
+          "“Are you taking any medications?”",
+          "“What did you have for dinner last night?”"
+        ],
+        "answer": "“How are you sleeping?”",
+        "explanation": "Sleep is a subjective experience. Only the patient is able to report whether or not it is sufficient and restful. Asking patients how they are sleeping is an introductory question. After this beginning question is asked, problems with sleep such as the nature of the problem, signs and symptoms, onset and duration of the issue, severity, predisposing factors, and the effect on the patient can be assessed. What is going on is too broad and open ended for information about sleep to be obtained specifically. Medications and food intake can be part of the detailed assessment of sleep issues.",
+        "dif": "Apply (application)",
+        "obj": "Conduct a sleep history for a patient.",
+        "top": "Assessment",
+        "msc": "Basic Care and Comfort"
+      },
+      {
+        "question": "The nurse adds a nursing diagnosis of Ineffective Breathing Pattern to a patient’s care plan. Which sleep condition likely caused the nurse to assign this nursing diagnosis?",
+        "options": [
+          "Insomnia",
+          "Narcolepsy",
+          "Sleep deprivation",
+          "Obstructive sleep apnea"
+        ],
+        "answer": "Obstructive sleep apnea",
+        "explanation": "Obstructive sleep apnea (OSA) occurs when the muscles or structures of the oral cavity or throat relax during sleep. The upper airway becomes partially or completely blocked, diminishing airflow or stopping it for as long as 30 seconds. The person still attempts to breathe because chest and abdominal movements continue, resulting in snoring or snorting sounds. With narcolepsy, the person feels an overwhelming wave of sleepiness and falls asleep. Insomnia is characterized by chronic difficulty falling asleep. Sleep deprivation is a condition caused by dyssomnia. OSA is the only one of these conditions that results in blockage of the airway and impacts the ability to breathe.",
+        "dif": "Apply (application)",
+        "obj": "Identify nursing diagnoses appropriate for patients with sleep alterations.",
+        "top": "Diagnosis",
+        "msc": "Physiological Adaptation"
+      },
+      {
+        "question": "The nurse is caring for a postpartum patient whose labor lasted over 28 hours. The patient has not slept since delivering and is disoriented to date and time. Which nursing diagnosis will the nurse document in the patient’s care plan?",
+        "options": [
+          "Insomnia",
+          "Impaired parenting",
+          "Ineffective coping",
+          "Sleep deprivation"
+        ],
+        "answer": "Sleep deprivation",
+        "explanation": "This patient has been deprived of sleep by staying awake during a 28-hour labor. Disorientation is one potential sign of sleep deprivation. In this scenario, there is a clear cause for the patient’s lack of sleep, and it is a one-time episode. Insomnia, on the other hand, is a chronic disorder whereby patients have difficulty falling asleep, awaken frequently, or sleep only for a short time. This scenario does not indicate that this has been a chronic problem for this patient. Although ineffective coping can manifest as a sleep disturbance, clear evidence shows that it was labor that deprived this patient of sleep, not an inability to cope. It could be difficult to care for an infant when sleep deprived; however, this scenario gives no evidence that this mother displays impaired parenting and is not caring adequately for her child or lacks the skills to do so.",
+        "dif": "Analyze (analysis)",
+        "obj": "Identify nursing diagnoses appropriate for patients with sleep alterations.",
+        "top": "Diagnosis",
+        "msc": "Management of Care"
+      },
+      {
+        "question": "The patient presents to the clinic with reports of irritability and anxiety, being sleepy during the day, chronically not being able to fall asleep, and being fatigued. Which nursing diagnosis will the nurse document in the plan of care?",
+        "options": [
+          "Anxiety",
+          "Fatigue",
+          "Insomnia",
+          "Sleep deprivation"
+        ],
+        "answer": "Insomnia",
+        "explanation": "Insomnia is experienced when the patient has chronic difficulty falling asleep, frequent awakenings from sleep, and/or short sleep or nonrestorative sleep. It is the most common sleep-related complaint and includes symptoms such as irritability, excessive daytime sleepiness, not being able to fall asleep, and fatigue. Anxiety is a vague, uneasy feeling of discomfort or dread accompanied by an autonomic response. Fatigue is an overwhelming sustained sense of exhaustion with decreased capacity for physical and mental work at a usual level. Sleep deprivation is a condition caused by dyssomnia and includes symptoms caused by illness, emotional distress, or medications.",
+        "dif": "Apply (application)",
+        "obj": "Identify nursing diagnoses appropriate for patients with sleep alterations.",
+        "top": "Diagnosis",
+        "msc": "Management of Care"
+      },
+      {
+        "question": "The nurse is preparing an older-adult patient’s evening medications. Which treatment will the nurse recognize as relatively safe for difficulty sleeping in older adults?",
+        "options": [
+          "Ramelteon",
+          "Benzodiazepine",
+          "Antihistamine",
+          "Kava"
+        ],
+        "answer": "Ramelteon",
+        "explanation": "Ramelteon, a melatonin receptor agonist, is well tolerated and appears to be effective in improving sleep by improving the circadian rhythm and shortening time to sleep onset. It is safe for long- and short-term use particularly in older adults. The use of benzodiazepines in older adults is potentially dangerous because of the tendency of the drugs to remain active in the body for a longer time. As a result, they also cause respiratory depression, next-day sedation, amnesia, rebound insomnia, and impaired motor functioning and coordination, which leads to increased risk of falls. Caution older adults about using over-the-counter antihistamines because their long duration of action can cause confusion, constipation, and urinary retention. Kava promotes sleep in patients with anxiety; it should be used cautiously because of its potential toxic effects on the liver.",
+        "dif": "Apply (application)",
+        "obj": "Identify nursing interventions designed to promote normal sleep cycles for patients of all ages.",
+        "top": "Implementation",
+        "msc": "Pharmacological and Parenteral Therapies"
+      },
+      {
+        "question": "The nurse is caring for a patient on the medical-surgical unit who is experiencing an exacerbation of asthma. Which intervention will be most appropriate to help this patient sleep?",
+        "options": [
+          "Place bed in semi-Fowler’s position.",
+          "Offer iron-rich foods for meals.",
+          "Provide a snack before bedtime.",
+          "Encourage the patient to read."
+        ],
+        "answer": "Place bed in semi-Fowler’s position.",
+        "explanation": "Placing the patient in a semi-Fowler’s position eases the work of breathing. Respiratory disease often interferes with sleep. Patients with chronic lung disease such as emphysema or asthma are short of breath and frequently cannot sleep without two or three pillows to raise their heads. Iron-rich food may help a patient with restless legs syndrome. Providing a snack and encouraging the patient to read may be good interventions for patients, but the most appropriate would be raising the head of the bed.",
+        "dif": "Apply (application)",
+        "obj": "Identify nursing interventions designed to promote normal sleep cycles for patients of all ages.",
+        "top": "Implementation",
+        "msc": "Basic Care and Comfort"
+      },
+      {
+        "question": "A young adult has been hospitalized for an irregular heartbeat (dysrhythmia). The night nurse makes rounds and finds the patient awake. Which action by the nurse is most appropriate?",
+        "options": [
+          "Inform the patient that it is late and time to go to sleep.",
+          "Ask the patient if he/she would like medication for sleep.",
+          "Recommend a good movie that is on television tonight.",
+          "Take time to sit and talk with the patient about his/her inability to sleep."
+        ],
+        "answer": "Take time to sit and talk with the patient about his/her inability to sleep.",
+        "explanation": "A nurse on the night shift needs to take time to sit and talk with patients unable to sleep. This helps to determine the factors keeping patients awake. Assessment is the first step of the nursing process; therefore, assessment needs to be done first and involves ascertaining the cause of the patient’s inability to sleep. Patients who are admitted to the hospital for uncertain diagnoses can be stressed and worried about the testing and outcomes. In addition, a young mother can be worried about the care of her children and those caring for the children. This uncertainty and change in routine can cause difficulty in resting or falling asleep. A distraction such as a television may or may not work for the patient. After assessment is completed, a sedative may or may not be in order. Telling the patient that it is late and time to go to sleep is not a therapeutic response for an adult who is under stress.",
+        "dif": "Apply (application)",
+        "obj": "Identify nursing interventions designed to promote normal sleep cycles for patients of all ages.",
+        "top": "Implementation",
+        "msc": "Psychosocial Integrity"
+      },
+      {
+        "question": "The nurse is evaluating outcomes for the patient diagnosed with insomnia. Which key principle will the nurse consider during this process?",
+        "options": [
+          "The patient is the best evaluator of sleep.",
+          "The nurse is the best evaluator of sleep.",
+          "Effective interventions are the best evaluators of sleep.",
+          "Observations of the patient are the best evaluators of sleep."
+        ],
+        "answer": "The patient is the best evaluator of sleep.",
+        "explanation": "With regard to problems with sleep, the patient is the source for evaluating outcomes. The patient is the only one who knows whether sleep problems have improved and what has been successful. Interventions are not the best indicator; achievement of goals according to the patient is the best. Observations do provide needed data, but in the case of insomnia, the patient is the source for evaluating the restfulness of sleep.",
+        "dif": "Understand (comprehension)",
+        "obj": "Describe ways to evaluate the effects of sleep therapies.",
+        "top": "Evaluation",
+        "msc": "Basic Care and Comfort"
+      },
+      {
+        "question": "A patient is experiencing sleep deprivation. Which statement by the patient will indicate to the nurse that outcomes are being met?",
+        "options": [
+          "“I wake up only once a night to go to the bathroom.”",
+          "“I feel rested when I wake up in the morning.”",
+          "“I go to sleep within 30 minutes of lying down.”",
+          "“I only take a 20-minute nap during the day.”"
+        ],
+        "answer": "“I feel rested when I wake up in the morning.”",
+        "explanation": "Being able to sleep and feeling rested would indicate that outcomes are being met for sleep deprivation. Limiting a nap to 20 minutes is an intervention to promote sleep. Going to sleep within 30 minutes indicates a goal for insomnia. Waking up only once may indicate nocturia is improving but does not relate to sleep deprivation.",
+        "dif": "Analyze (analysis)",
+        "obj": "Describe ways to evaluate the effects of sleep therapies.",
+        "top": "Evaluation",
+        "msc": "Basic Care and Comfort"
+      },
+      {
+        "question": "An older-adult patient is visiting the clinic after a fall during the night. The nurse obtains information on what medications the patient takes. Which medication most likely contributed to the patient’s fall?",
+        "options": [
+          "Melatonin",
+          "L-tryptophan",
+          "Benzodiazepine",
+          "Iron supplement"
+        ],
+        "answer": "Benzodiazepine",
+        "explanation": "The most likely cause is a benzodiazepine. If older patients who were recently continent, ambulatory, and alert become incontinent or confused and/or demonstrate impaired mobility, the use of benzodiazepines needs to be considered as a possible cause. This can contribute to a fall in an older adult. Short-term use of melatonin has been found to be safe, with mild side effects of nausea, headache, and dizziness being infrequent. Iron supplements may be given to patients with restless legs syndrome. Some substances such as L-tryptophan, a natural protein found in foods such as milk, cheese, and meats, promote sleep; while it does promote sleep, it is not the most likely to cause mobility problems.",
+        "dif": "Analyze (analysis)",
+        "obj": "Conduct a sleep history for a patient.",
+        "top": "Assessment",
+        "msc": "Reduction of Risk Potential"
+      },
+      {
+        "question": "The nurse is caring for a patient who has not been able to sleep well while in the hospital, leading to a disrupted sleep-wake cycle. Which assessment findings will the nurse monitor for in this patient? (Select all that apply.)",
+        "options": [
+          "Changes in physiological function such as temperature",
+          "Decreased appetite and weight loss",
+          "Anxiety, irritability, and restlessness",
+          "Shortness of breath and chest pain",
+          "Nausea, vomiting, and diarrhea",
+          "Impaired judgment"
+        ],
+        "answer": [
+          "Changes in physiological function such as temperature",
+          "Decreased appetite and weight loss",
+          "Anxiety, irritability, and restlessness",
+          "Impaired judgment"
+        ],
+        "explanation": "The biological rhythm of sleep frequently becomes synchronized with other body functions. Changes in body temperature correlate with sleep pattern. When the sleep-wake cycle becomes disrupted, changes in physiological function such as temperature can occur. Patients can experience decreased appetite, loss of weight, anxiety, restlessness, irritability, and impaired judgment. Gastrointestinal and respiratory/cardiovascular symptoms such as shortness of breath and chest pain are not symptoms of a disrupted sleep cycle.",
+        "dif": "Understand (comprehension)",
+        "obj": "Explain the effect that the 24-hour sleep-wake cycle has on biological function.",
+        "top": "Assessment",
+        "msc": "Physiological Adaptation"
+      },
+      {
+        "question": "The nurse is caring for a patient in the intensive care unit who is having trouble sleeping. The nurse explains the purpose of sleep and its benefits. Which information will the nurse include in the teaching session? (Select all that apply.)",
+        "options": [
+          "NREM sleep contributes to body tissue restoration.",
+          "During NREM sleep, biological functions increase.",
+          "Restful sleep preserves cardiac function.",
+          "Sleep contributes to cognitive restoration.",
+          "REM sleep decreases cortical activity."
+        ],
+        "answer": [
+          "NREM sleep contributes to body tissue restoration.",
+          "Restful sleep preserves cardiac function.",
+          "Sleep contributes to cognitive restoration."
+        ],
+        "explanation": "Sleep contributes to physiological and psychological restoration. NREM sleep contributes to body tissue restoration. It allows the body to rest and conserve energy. This benefits the cardiac system by allowing the heart to beat fewer times each minute. During stage 4, the body releases growth hormone for renewal and repair of specialized cells such as the brain. During NREM sleep, biological functions slow. REM sleep is necessary for brain tissue restoration and cognitive restoration and is associated with a change in cerebral blood flow and increased cortical activity.",
+        "dif": "Understand (comprehension)",
+        "obj": "Explain the functions of sleep.",
+        "top": "Teaching/Learning",
+        "msc": "Physiological Adaptation"
+      },
+      {
+        "question": "The patient and the nurse discuss the need for sleep. After the discussion, the patient is able to state factors that hinder sleep. Which statements indicate the patient has a good understanding of the teaching? (Select all that apply.)",
+        "options": [
+          "“Drinking coffee at 7 PM could interrupt my sleep.”",
+          "“Staying up late for a party can interrupt sleep patterns.”",
+          "“Exercising 2 hours before bedtime can decrease relaxation.”",
+          "“Changing the time of day that I eat dinner can disrupt sleep.”",
+          "“Worrying about work can disrupt my sleep.”",
+          "“Taking an antacid can decrease sleep.”"
+        ],
+        "answer": [
+          "“Drinking coffee at 7 PM could interrupt my sleep.”",
+          "“Staying up late for a party can interrupt sleep patterns.”",
+          "“Changing the time of day that I eat dinner can disrupt sleep.”",
+          "“Worrying about work can disrupt my sleep.”"
+        ],
+        "explanation": "Caffeine, alcohol, and nicotine consumed late in the evening produce insomnia. Worry over personal problems or situations frequently disrupts sleep. Alterations in routines, including changing mealtimes and staying up late at night for social activities, can disrupt sleep. Exercising 2 hours before bedtime actually increases a sense of fatigue and promotes relaxation. Taking an antacid does not decrease sleep.",
+        "dif": "Apply (application)",
+        "obj": "Identify factors that normally promote and disrupt sleep.",
+        "top": "Teaching/Learning",
+        "msc": "Basic Care and Comfort"
+      },
+      {
+        "question": "A community health nurse is providing an educational session at the senior center on how to promote sleep. Which practices should the nurse recommend? (Select all that apply.)",
+        "options": [
+          "Take a nap in the afternoon.",
+          "Sleep where you sleep best.",
+          "Use sedatives as a last resort.",
+          "Watch television right before sleep.",
+          "Decrease fluids 2 to 4 hours before sleep.",
+          "Get up if unable to fall asleep in 20 minutes."
+        ],
+        "answer": [
+          "Sleep where you sleep best.",
+          "Use sedatives as a last resort.",
+          "Decrease fluids 2 to 4 hours before sleep.",
+          "Get up if unable to fall asleep in 20 minutes."
+        ],
+        "explanation": ", C, E, F The nurse should instruct the patient to sleep where he or she sleeps best, to use sedatives as a last resort, to decrease fluid intake to cut down on bathroom trips, and, if unable to sleep in 20 minutes, to get up out of bed. Naps should be eliminated if they are not part of the individual’s routine schedule, and if naps are taken, they should be limited to 20 minutes or less a day. Television can stimulate and disrupt sleep patterns.",
+        "dif": "Apply (application)",
+        "obj": "Identify nursing interventions designed to promote normal sleep cycles for patients of all ages.",
+        "top": "Teaching/Learning",
+        "msc": "Health Promotion and Maintenance"
+      },
+      {
+        "question": "A nurse is discussing nursing actions that can lead to breaches of nursing practice. Match the example to the term it describes.",
+        "matching": [
+          "Cataplexy",
+          "Narcolepsy",
+          "Insomnia",
+          "Hiatal hernia",
+          "Sleepwalking",
+          "Obstructive sleep apnea"
+        ],
+        "options": [
+          "Use continuous positive airway pressure.",
+          "Offer a small meal several hours before bedtime.",
+          "Administer antidepressants.",
+          "Administer modafinil.",
+          "Do not startle.",
+          "Administer benzodiazepine-like drugs."
+        ],
+        "answer": {
+          "Cataplexy": "Administer antidepressants.",
+          "Narcolepsy": "Administer modafinil.",
+          "Insomnia": "Administer benzodiazepine-like drugs.",
+          "Hiatal hernia": "Offer a small meal several hours before bedtime.",
+          "Sleepwalking": "Do not startle.",
+          "Obstructive sleep apnea": "Use continuous positive airway pressure."
+        },
+        "explanation": "Cataplexy, often linked with narcolepsy, involves sudden muscle weakness triggered by emotions. Administering antidepressants helps manage this symptom by regulating relevant neurotransmitters. Narcolepsy, characterized by daytime sleepiness and sudden sleep attacks, is addressed with modafinil, a wakefulness-promoting medication. Insomnia, difficulty sleeping, can be managed with benzodiazepine-like drugs that induce sleep and reduce anxiety. Hiatal hernia discomfort before bed can be minimized by offering a small meal earlier. Sleepwalking individuals should not be startled to prevent confusion or injury. Obstructive sleep apnea is managed with continuous positive airway pressure therapy, ensuring an open airway during sleep. These interventions aim to promote normal sleep cycles, aiding physiological adaptation and aligning with nursing practice objectives.",
+        "dif":"Understand (comprehension)",
+        "obj": "Identify nursing interventions designed to promote normal sleep cycles for patients of all ages.",
+        "top": "Implementation",
+        "msc": "Physiological Adaptation"
+      } 
     ],
     "chapter48": [
         {
