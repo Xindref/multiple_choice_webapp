@@ -17,6 +17,7 @@ function App() {
           <Route path="/chapter_6" element={<Chapter chapter={6}/>}/>
           <Route path="/chapter_10" element={<Chapter chapter={10}/>}/>
           <Route path="/chapter_11" element={<Chapter chapter={11}/>}/>
+          <Route path="/chapter_14" element={<Chapter chapter={14}/>}/>
           <Route path="/chapter_22" element={<Chapter chapter={22}/>}/>
           <Route path="/chapter_23" element={<Chapter chapter={23}/>}/>
           <Route path="/chapter_24" element={<Chapter chapter={24}/>}/>
@@ -34,8 +35,13 @@ function App() {
           <Route path="/chapter_41" element={<Chapter chapter={41}/>}/>
           <Route path="/chapter_42" element={<Chapter chapter={42}/>}/>
           <Route path="/chapter_43" element={<Chapter chapter={43}/>}/>
+          <Route path="/chapter_44" element={<Chapter chapter={44}/>}/>
+          <Route path="/chapter_45" element={<Chapter chapter={45}/>}/>
           <Route path="/chapter_46" element={<Chapter chapter={46}/>}/>
+          <Route path="/chapter_47" element={<Chapter chapter={47}/>}/>
           <Route path="/chapter_48" element={<Chapter chapter={48}/>}/>
+          <Route path="/chapter_49" element={<Chapter chapter={49}/>}/>
+          <Route path="/chapter_50" element={<Chapter chapter={50}/>}/>
           <Route path="/chapter_select" element={<ChapterSelect />}/>
         </Routes>
       </div>
